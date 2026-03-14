@@ -1,0 +1,320 @@
+{
+    "Header": "Configuration xd-AntiSpy pour supprimer les logiciels superflus (bloatware).",
+    "Entries": [
+        {
+            "Type": "AppsHabit",
+            "AppName": "Instagram",
+            "Description": "Instagram est une plateforme de réseau social."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "TikTok",
+            "Description": "L'application est une PWA, disponible non seulement pour Windows 11, mais aussi pour Windows 10."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "BingNews",
+            "Description": "Application d'actualités de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "ZuneVideo",
+            "Description": "Application vidéo de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "MicrosoftOfficeHub",
+            "Description": "C'est un logiciel superflu préinstallé par Microsoft."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "GetHelp",
+            "Description": "L'application Obtenir de l'aide permet aux clients de s'auto-dépanner avec des utilitaires de résolution de problèmes, des réponses instantanées, des articles de support Microsoft, et plus encore, avant de contacter le support assisté."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "WhatsApp",
+            "Description": "WhatsApp dispose d'une application UWP pour Windows 11, et bien qu'il ne s'agisse pas d'un wrapper web, elle n'offre pas autant de fonctionnalités que sa version mobile. Si vous ne l'utilisez pas, supprimez-la."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "OneDrive",
+            "Description": "Encore un logiciel superflu officiel de Microsoft."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft MixedReality.Portal",
+            "Description": "Logiciel superflu officiel de Microsoft."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft Print3D",
+            "Description": "Encore un logiciel superflu officiel de Microsoft."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft People",
+            "Description": "Encore un logiciel superflu officiel de Microsoft."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.SkypeApp",
+            "Description": "L'application officielle Microsoft Skype"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "9E2F88E3.TWITTER",
+            "Description": "Rien de plus qu'une interface pour le site web X. Vous n'en avez vraiment pas besoin."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.News",
+            "Description": "Application d'actualités de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.ZuneVideo",
+            "Description": "Application vidéo de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Music",
+            "Description": "Application de musique de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Office",
+            "Description": "Suite bureautique de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Skype",
+            "Description": "L'application officielle Microsoft Skype"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.OneNote",
+            "Description": "Application de prise de notes de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.PowerPoint",
+            "Description": "Logiciel de présentation de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Excel",
+            "Description": "Logiciel de tableur de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Word",
+            "Description": "Logiciel de traitement de texte de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Outlook",
+            "Description": "Application de messagerie et de calendrier de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Teams",
+            "Description": "Plateforme de collaboration de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Maps",
+            "Description": "Application de cartes de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Weather",
+            "Description": "Application météo de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Alarms",
+            "Description": "Application Alarmes et horloge de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Feedback",
+            "Description": "Application Hub de commentaires de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Messaging",
+            "Description": "Application de messagerie de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Solitaire",
+            "Description": "Application Solitaire Collection de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.StickyNotes",
+            "Description": "Application Pense-bête de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Wallet",
+            "Description": "Application Portefeuille de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "DevHome",
+            "Description": "DevHome est un environnement de développement pour les développeurs Windows."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.YourPhone",
+            "Description": "Application Mobile connecté de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.3DViewer",
+            "Description": "Application Visionneuse 3D de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Microsoft.Paint3D",
+            "Description": "Application Paint 3D de Microsoft"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Clipchamp.Clipchamp",
+            "Description": "Clipchamp est une application basée sur le web. Elle n'est pas non plus entièrement gratuite !"
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Netflix",
+            "Description": "Netflix est un service de streaming populaire."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Spotify",
+            "Description": "Spotify est un service de streaming musical."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Twitter",
+            "Description": "Twitter est une plateforme de réseau social."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "AD2F1837",
+            "Description": "Application inconnue avec l'identifiant AD2F1837."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Adobe",
+            "Description": "Adobe est une société de logiciels connue pour Photoshop et Acrobat."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Asana",
+            "Description": "Asana est une application de gestion de tâches."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Google",
+            "Description": "Google est un moteur de recherche et une entreprise technologique."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Facebook",
+            "Description": "Facebook est une plateforme de réseau social."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Candy",
+            "Description": "Candy Crush Saga est un jeu de puzzle populaire."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Disney",
+            "Description": "Disney est une entreprise de divertissement."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Dolby",
+            "Description": "Dolby est une entreprise connue pour ses technologies audio."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Duolingo",
+            "Description": "Duolingo est une plateforme d'apprentissage des langues."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Eclipse",
+            "Description": "Eclipse est un environnement de développement intégré (IDE)."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Fitbit",
+            "Description": "Fitbit est un appareil et une application de suivi de la condition physique."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Flipboard",
+            "Description": "Flipboard est une application d'agrégation d'actualités."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Fresh",
+            "Description": "Fresh Paint est une application de peinture."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Gameloft",
+            "Description": "Gameloft est une entreprise de développement de jeux."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Gears",
+            "Description": "Gears of War est une franchise de jeux populaire."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Hulu",
+            "Description": "Hulu est un service de streaming."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "LinkedIn",
+            "Description": "LinkedIn est une plateforme de réseautage professionnel."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "News",
+            "Description": "Application d'actualités."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Reddit",
+            "Description": "Reddit est une plateforme de réseau social."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Slack",
+            "Description": "Slack est une plateforme de messagerie et de collaboration."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Twitch",
+            "Description": "Twitch est une plateforme de streaming en direct pour les joueurs."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Wunderlist",
+            "Description": "Wunderlist est une application de gestion de tâches."
+        },
+        {
+            "Type": "AppsHabit",
+            "AppName": "Zoom",
+            "Description": "Zoom est une plateforme de visioconférence."
+        }
+    ]
+}

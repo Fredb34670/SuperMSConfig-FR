@@ -1,0 +1,275 @@
+{
+    "Header": "Cette configuration reproduit la dernière application Bloatynosy (v0.85), clonant presque toutes les 30 configurations.",
+    "Entries": [
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Google\\Chrome",
+            "ValueName": "MetricsReportingEnabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver la télémétrie de Google Chrome en réglant MetricsReportingEnabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Google\\Chrome",
+            "ValueName": "ChromeCleanupReportingEnabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver la télémétrie de nettoyage de Google Chrome en réglant ChromeCleanupReportingEnabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Google\\Chrome",
+            "ValueName": "SubscribedContent-353696Enabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver la télémétrie d'abonnement au contenu de Google Chrome en réglant SubscribedContent-353696Enabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Microsoft\\Edge",
+            "ValueName": "HubsSidebarEnabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver le bouton géant de recherche Bing (chat IA) dans Microsoft Edge en réglant HubsSidebarEnabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Mozilla\\Firefox",
+            "ValueName": "DisableTelemetry",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Désactiver la télémétrie de Mozilla Firefox en réglant DisableTelemetry sur 1",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Mozilla\\Firefox",
+            "ValueName": "DisableDefaultBrowserAgent",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Désactiver l'agent du navigateur par défaut de Mozilla Firefox en réglant DisableDefaultBrowserAgent sur 1",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize",
+            "ValueName": "AppsUseLightTheme",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Utiliser le thème sombre pour les applications en réglant AppsUseLightTheme sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "EnableSnapAssistFlyout",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver l'assistant d'ancrage en réglant EnableSnapAssistFlyout sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Microsoft\\PolicyManager\\current\\device\\Stickers",
+            "ValueName": "EnableStickers",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Supprimer les autocollants du bureau en réglant EnableStickers sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize",
+            "ValueName": "EnableTransparency",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver les effets acryliques Fluent Design en réglant EnableTransparency sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarDa",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver les Widgets en réglant TaskbarDa sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Themes\\Personalize",
+            "ValueName": "SystemUsesLightTheme",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Utiliser le thème sombre pour tout le système en réglant SystemUsesLightTheme sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "HideFileExt",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Afficher les extensions de fichiers en réglant HideFileExt sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "Hidden",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Afficher les fichiers et dossiers cachés en réglant Hidden sur 1",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "System\\GameConfigStore",
+            "ValueName": "GameDVR_Enabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver Game DVR en réglant GameDVR_Enabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Microsoft\\PolicyManager\\default\\ApplicationManagement\\AllowGameDVR",
+            "ValueName": "value",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver Game DVR en réglant AllowGameDVR sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SYSTEM\\CurrentControlSet\\Control\\Power\\PowerThrottling",
+            "ValueName": "PowerThrottlingOff",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Désactiver la limitation de puissance (Power Throttling) en réglant PowerThrottlingOff sur 1",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\VisualEffects",
+            "ValueName": "VisualFXSetting",
+            "BadValue": 1,
+            "GoodValue": 2,
+            "Description": "Régler les effets visuels sur 'Ajuster pour obtenir les meilleures performances' en réglant VisualFXSetting sur 2",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\AdvertisingInfo",
+            "ValueName": "Enabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver les informations publicitaires en réglant Enabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager",
+            "ValueName": "SilentInstalledAppsEnabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver l'installation silencieuse d'applications en réglant SilentInstalledAppsEnabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\BackgroundAccessApplications",
+            "ValueName": "GlobalUserDisabled",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Désactiver l'accès aux applications en arrière-plan en réglant GlobalUserDisabled sur 1",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "Software\\Microsoft\\Windows NT\\CurrentVersion\\Image File Execution Options\\CompatTelRunner.exe",
+            "ValueName": "Debugger",
+            "BadValue": "DELETE",
+            "GoodValue": "%windir%\\System32\\taskkill.exe",
+            "Description": "Désactiver CompatTelRunner.exe en réglant Debugger sur %windir%\\System32\\taskkill.exe",
+            "ValueType": "STRING"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Privacy",
+            "ValueName": "TailoredExperiencesWithDiagnosticDataEnabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver les expériences personnalisées avec les données de diagnostic en réglant TailoredExperiencesWithDiagnosticDataEnabled sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Siuf\\Rules",
+            "ValueName": "PeriodInNanoSeconds",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver la période SIUF en réglant PeriodInNanoSeconds sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Siuf\\Rules",
+            "ValueName": "NumberOfSIUFInPeriod",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver le nombre de SIUF par période en réglant NumberOfSIUFInPeriod sur 0",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\CapabilityAccessManager\\ConsentStore\\location",
+            "ValueName": "Value",
+            "BadValue": "Allow",
+            "GoodValue": "Deny",
+            "Description": "Refuser l'accès à la localisation en réglant Value sur 'Deny'",
+            "ValueType": "STRING"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\ContentDeliveryManager",
+            "ValueName": "SubscribedContent-338393Enabled",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver l'abonnement au contenu en réglant SubscribedContent-338393Enabled sur 0",
+            "ValueType": "DWORD"
+        }
+    ]
+}

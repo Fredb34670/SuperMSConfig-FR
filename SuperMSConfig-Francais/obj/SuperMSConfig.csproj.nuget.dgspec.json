@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {}
+  },
+  "projects": {
+    "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+        "projectName": "SuperMSConfig-FR",
+        "projectPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+        "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
+        "outputPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fred\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "dependencies": {
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

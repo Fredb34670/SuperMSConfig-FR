@@ -1,0 +1,25 @@
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.csproj.AssemblyReference.cache
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.csproj.SuggestedBindingRedirects.cache
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig-FR.exe.config
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.AboutForm.resources
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.MainForm.resources
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.Properties.Resources.resources
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.csproj.GenerateResource.cache
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.csproj.CoreCompileInputs.cache
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig.sourcelink.json
+F:\Projets en cours\SuperMSConfig\bin-fr\Microsoft.Web.WebView2.Core.dll
+F:\Projets en cours\SuperMSConfig\bin-fr\Microsoft.Web.WebView2.WinForms.dll
+F:\Projets en cours\SuperMSConfig\bin-fr\PluginClipilot.dll
+F:\Projets en cours\SuperMSConfig\bin-fr\plugins\PluginMSCleanupCompanion\MSCleanupCompanion.json
+F:\Projets en cours\SuperMSConfig\bin-fr\plugins\PluginMSNavigator\MSNavigator.json
+F:\Projets en cours\SuperMSConfig\bin-fr\source\APP Bloatynosy Classic.json
+F:\Projets en cours\SuperMSConfig\bin-fr\source\APP xd-AntiSpy.json
+F:\Projets en cours\SuperMSConfig\bin-fr\source\CONF Taskbar customization.json
+F:\Projets en cours\SuperMSConfig\bin-fr\source\WWW xda-developers.com.json
+F:\Projets en cours\SuperMSConfig\bin-fr\SuperMSConfig-FR.exe.config
+F:\Projets en cours\SuperMSConfig\bin-fr\SuperMSConfig-FR.exe
+F:\Projets en cours\SuperMSConfig\bin-fr\SuperMSConfig-FR.pdb
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSC.203130A3.Up2Date
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig-FR.exe
+F:\Projets en cours\SuperMSConfig\SuperMSConfig-Francais\obj\Release\net481\SuperMSConfig-FR.pdb

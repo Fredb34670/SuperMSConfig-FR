@@ -1,0 +1,85 @@
+{
+    "Header": "Ajustements du registre pour les personnalisations de la barre des tâches de Windows 11.",
+    "Entries": [
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarAl",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive l'alignement de la barre des tâches au centre. Régler cette valeur sur 0 déplace les icônes de la barre des tâches vers la gauche, désactivant l'alignement central des programmes épinglés et du bouton Démarrer.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarAnimations",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive les animations de la barre des tâches. Régler cette valeur sur 0 désactivera les effets animés lors de l'ouverture, de la fermeture ou de la réduction des applications depuis la barre des tâches, la rendant statique.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarAutoHideInTabletMode",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive le masquage automatique de la barre des tâches en mode tablette. Cela garantit que la barre des tâches est toujours visible même en mode tablette, au lieu de se masquer pour gagner de l'espace.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarBadges",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive les badges de la barre des tâches. Régler cette valeur sur 0 supprime les badges de notification (petites icônes d'état) des icônes d'application de la barre des tâches, simplifiant son apparence.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarDa",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive l'icône Widgets sur la barre des tâches. En réglant cette valeur sur 0, l'icône Widgets sera masquée, l'empêchant de s'afficher sur la barre des tâches.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarFlashing",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive le clignotement des icônes de la barre des tâches. Régler cette valeur sur 0 empêche les icônes de la barre des tâches de clignoter pour attirer l'attention lorsqu'une application nécessite une attention ou une action.",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarMn",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive les animations du menu de la barre des tâches. Cela empêche la lecture des animations lors de l'ouverture des menus contextuels sur la barre des tâches (par exemple, les menus du clic droit).",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarSizeMove",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactive la possibilité de redimensionner manuellement la barre des tâches. En réglant cette valeur sur 0, les utilisateurs ne pourront plus ajuster la hauteur de la barre des tâches par glisser-déposer.",
+            "ValueType": "DWORD"
+        }
+    ]
+}

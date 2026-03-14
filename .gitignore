@@ -1,0 +1,37 @@
+# Build results
+/bin/
+/obj/
+/bin-fr/
+/Release-FR/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Miscellaneous files
+/.vs/
+/plugins/*/bin/
+/plugins/*/obj/
+/*.dll
+/*.exe
+/*.pdb
+
+# Conductor / Brain
+/.gemini/
+/tmp/
+
+# Templates & Plugins sources are allowed, but not their build outputs
+!/plugins/
+!/source/
+!/SuperMSConfig-Francais/
+!/conductor/
+!/plugins/**/*.cs
+!/plugins/**/*.json
+!/plugins/**/*.csproj
+!/plugins/**/*.resx
+!/plugins/**/*.ico
+!/plugins/**/*.png
+!/plugins/**/*.manifest

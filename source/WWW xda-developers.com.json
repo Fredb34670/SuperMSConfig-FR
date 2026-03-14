@@ -1,0 +1,101 @@
+{
+    "Header": "11 ajustements du registre indispensables pour Windows 11 provenant directement de https://www.xda-developers.com/registry-tweaks-for-windows-11",
+    "Entries": [
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System",
+            "ValueName": "verbosestatus",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Activer les messages d'état de démarrage détaillés",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "ServiceHabit",
+            "ServiceName": "DiagTrack",
+            "Description": "Service de suivi des diagnostics : Surveille et suit les diagnostics et les mesures de performance.",
+            "BadValue": 1
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Policies\\Microsoft",
+            "ValueName": "AllowNewsAndInterests",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Désactiver l'icône Météo/Actualités dans la barre des tâches",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Advanced",
+            "ValueName": "TaskbarAl",
+            "BadValue": 1,
+            "GoodValue": 0,
+            "Description": "Modifier l'alignement de la barre des tâches vers la gauche",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Multimedia\\SystemProfile",
+            "ValueName": "NetworkThrottlingIndex",
+            "BadValue": 32,
+            "GoodValue": -1,
+            "Description": "Désactiver la limitation du réseau (Network Throttling)",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Multimedia\\SystemProfile",
+            "ValueName": "SystemResponsiveness",
+            "BadValue": 32,
+            "GoodValue": 16,
+            "Description": "Réduire l'allocation des ressources aux tâches en arrière-plan",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SYSTEM\\CurrentControlSet\\Control",
+            "ValueName": "WaitToKillServiceTimeout",
+            "BadValue": "5000",
+            "GoodValue": "2000",
+            "Description": "Accélérer le processus d'arrêt",
+            "ValueType": "STRING"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "SOFTWARE\\CLASSES\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32",
+            "ValueName": "",
+            "BadValue": "DELETE",
+            "GoodValue": "Not Set",
+            "Description": "Active les menus contextuels complets en ajoutant la clé InprocServer32.",
+            "ValueType": "STRING"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "LocalMachine",
+            "Key": "SYSTEM\\CurrentControlSet\\Control\\Power\\PowerThrottling",
+            "ValueName": "PowerThrottlingOff",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Désactiver la limitation de puissance (Power Throttling) pour améliorer les performances",
+            "ValueType": "DWORD"
+        },
+        {
+            "Type": "RegistryHabit",
+            "Hive": "CurrentUser",
+            "Key": "Software\\Policies\\Microsoft\\Windows\\Explorer",
+            "ValueName": "DisableSearchBoxSuggestions",
+            "BadValue": 0,
+            "GoodValue": 1,
+            "Description": "Supprimer les suggestions Bing du menu Démarrer",
+            "ValueType": "DWORD"
+        }
+    ]
+}
