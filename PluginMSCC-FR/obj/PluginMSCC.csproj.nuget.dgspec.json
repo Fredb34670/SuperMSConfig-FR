@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\PluginMSCC-FR\\PluginMSCC.csproj": {}
+  },
+  "projects": {
+    "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\PluginMSCC-FR\\PluginMSCC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\PluginMSCC-FR\\PluginMSCC.csproj",
+        "projectName": "MSCleanupCompanion",
+        "projectPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\PluginMSCC-FR\\PluginMSCC.csproj",
+        "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
+        "outputPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\PluginMSCC-FR\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fred\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "framework": "net481",
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "11.0.100"
+      },
+      "frameworks": {
+        "net481": {
+          "framework": "net481",
+          "targetAlias": "net481",
+          "dependencies": {
+            "Microsoft.PowerShell.5.ReferenceAssemblies": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.2.26159.112\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

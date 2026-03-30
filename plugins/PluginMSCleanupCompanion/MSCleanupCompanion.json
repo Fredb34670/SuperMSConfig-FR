@@ -1,27 +1,27 @@
-[
+﻿[
     {
         "name":  "BingNews",
-        "description":  "Application d\u0027actualitÃƒÂ©s de Microsoft",
+        "description":  "Application d\u0027actualités de Microsoft",
         "removeCommand":  "Get-AppxPackage *BingNews* | Remove-AppxPackage"
     },
     {
         "name":  "ZuneVideo",
-        "description":  "Application vidÃƒÂ©o de Microsoft",
+        "description":  "Application vidéo de Microsoft",
         "removeCommand":  "Get-AppxPackage *ZuneVideo* | Remove-AppxPackage"
     },
     {
         "name":  "MicrosoftOfficeHub",
-        "description":  "Logiciel Microsoft Office Hub prÃƒÂ©installÃƒÂ© (souvent considÃƒÂ©rÃƒÂ© comme superflu).",
+        "description":  "Logiciel Microsoft Office Hub préinstallé (souvent considéré comme superflu).",
         "removeCommand":  "Get-AppxPackage *MicrosoftOfficeHub* | Remove-AppxPackage"
     },
     {
         "name":  "GetHelp",
-        "description":  "L\u0027application Obtenir de l\u0027aide permet aux clients de s\u0027auto-dÃƒÂ©panner avec des utilitaires de rÃƒÂ©solution de problÃƒÂ¨mes, des rÃƒÂ©ponses instantanÃƒÂ©es, des articles de support Microsoft, et plus encore, avant de contacter l\u0027assistance.",
+        "description":  "L\u0027application Obtenir de l\u0027aide permet aux clients de s\u0027auto-dépanner avec des utilitaires de résolution de problèmes, des réponses instantanées, des articles de support Microsoft, et plus encore, avant de contacter l\u0027assistance.",
         "removeCommand":  "Get-AppxPackage *GetHelp* | Remove-AppxPackage"
     },
     {
         "name":  "WhatsApp",
-        "description":  "WhatsApp dispose d\u0027une application UWP pour Windows 11, et bien qu\u0027il ne s\u0027agisse pas d\u0027un simple site web encapsulÃƒÂ©, elle ne possÃƒÂ¨de pas autant de fonctionnalitÃƒÂ©s que son homologue mobile. Si vous ne l\u0027utilisez pas, supprimez-la.",
+        "description":  "WhatsApp dispose d\u0027une application UWP pour Windows 11, et bien qu\u0027il ne s\u0027agisse pas d\u0027un simple site web encapsulé, elle ne possède pas autant de fonctionnalités que son homologue mobile. Si vous ne l\u0027utilisez pas, supprimez-la.",
         "removeCommand":  "Get-AppxPackage *WhatsApp* | Remove-AppxPackage"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
         "name":  "Microsoft MixedReality.Portal",
-        "description":  "Portail de rÃƒÂ©alitÃƒÂ© mixte officiel de Microsoft.",
+        "description":  "Portail de réalité mixte officiel de Microsoft.",
         "removeCommand":  "Get-AppxPackage *Microsoft.MixedReality* | Remove-AppxPackage"
     },
     {
@@ -61,12 +61,12 @@
     },
     {
         "name":  "Microsoft.News",
-        "description":  "Application d\u0027actualitÃƒÂ©s de Microsoft",
+        "description":  "Application d\u0027actualités de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.News* | Remove-AppxPackage"
     },
     {
         "name":  "Microsoft.ZuneVideo",
-        "description":  "Application vidÃƒÂ©o de Microsoft",
+        "description":  "Application vidéo de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.ZuneVideo* | Remove-AppxPackage"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "name":  "Microsoft.PowerPoint",
-        "description":  "Logiciel de prÃƒÂ©sentation de Microsoft",
+        "description":  "Logiciel de présentation de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.PowerPoint* | Remove-AppxPackage"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "name":  "Microsoft.Weather",
-        "description":  "Application MÃƒÂ©tÃƒÂ©o de Microsoft",
+        "description":  "Application Météo de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.Weather* | Remove-AppxPackage"
     },
     {
@@ -146,7 +146,7 @@
     },
     {
         "name":  "Microsoft.StickyNotes",
-        "description":  "Application Pense-bÃƒÂªte de Microsoft",
+        "description":  "Application Pense-bàªte de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.StickyNotes* | Remove-AppxPackage"
     },
     {
@@ -156,12 +156,12 @@
     },
     {
         "name":  "DevHome",
-        "description":  "DevHome est un environnement de dÃƒÂ©veloppement pour les dÃƒÂ©veloppeurs Windows.",
+        "description":  "DevHome est un environnement de développement pour les développeurs Windows.",
         "removeCommand":  "Get-AppxPackage *DevHome* | Remove-AppxPackage"
     },
     {
         "name":  "Microsoft.YourPhone",
-        "description":  "Application Mobile connectÃƒÂ© de Microsoft",
+        "description":  "Application Mobile connecté de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.YourPhone* | Remove-AppxPackage"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
         "name":  "Microsoft.MixedReality",
-        "description":  "Application Portail de rÃƒÂ©alitÃƒÂ© mixte de Microsoft",
+        "description":  "Application Portail de réalité mixte de Microsoft",
         "removeCommand":  "Get-AppxPackage *Microsoft.MixedReality* | Remove-AppxPackage"
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "name":  "Clipchamp.Clipchamp",
-        "description":  "Clipchamp est une application basÃƒÂ©e sur le web. Elle n\u0027est pas non plus entiÃƒÂ¨rement gratuite !",
+        "description":  "Clipchamp est une application basée sur le web. Elle n\u0027est pas non plus entièrement gratuite !",
         "removeCommand":  "Get-AppxPackage *Clipchamp* | Remove-AppxPackage"
     },
     {
@@ -191,7 +191,7 @@
     },
     {
         "name":  "Instagram",
-        "description":  "Instagram est une plateforme de mÃƒÂ©dias sociaux.",
+        "description":  "Instagram est une plateforme de médias sociaux.",
         "removeCommand":  "Get-AppxPackage *Instagram* | Remove-AppxPackage"
     },
     {
@@ -201,7 +201,7 @@
     },
     {
         "name":  "Twitter",
-        "description":  "Twitter est une plateforme de mÃƒÂ©dias sociaux.",
+        "description":  "Twitter est une plateforme de médias sociaux.",
         "removeCommand":  "Get-AppxPackage *Twitter* | Remove-AppxPackage"
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "name":  "Asana",
-        "description":  "Asana est une application de gestion de tÃƒÂ¢ches.",
+        "description":  "Asana est une application de gestion de tâches.",
         "removeCommand":  "Get-AppxPackage *Asana* | Remove-AppxPackage"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "name":  "Facebook",
-        "description":  "Facebook est une plateforme de mÃƒÂ©dias sociaux.",
+        "description":  "Facebook est une plateforme de médias sociaux.",
         "removeCommand":  "Get-AppxPackage *Facebook* | Remove-AppxPackage"
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "name":  "Eclipse",
-        "description":  "Eclipse est un environnement de dÃƒÂ©veloppement intÃƒÂ©grÃƒÂ© (IDE).",
+        "description":  "Eclipse est un environnement de développement intégré (IDE).",
         "removeCommand":  "Get-AppxPackage *Eclipse* | Remove-AppxPackage"
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "name":  "Flipboard",
-        "description":  "Flipboard est une application d\u0027agrÃƒÂ©gation d\u0027actualitÃƒÂ©s.",
+        "description":  "Flipboard est une application d\u0027agrégation d\u0027actualités.",
         "removeCommand":  "Get-AppxPackage *Flipboard* | Remove-AppxPackage"
     },
     {
@@ -281,7 +281,7 @@
     },
     {
         "name":  "Gameloft",
-        "description":  "Gameloft est une entreprise de dÃƒÂ©veloppement de jeux.",
+        "description":  "Gameloft est une entreprise de développement de jeux.",
         "removeCommand":  "Get-AppxPackage *Gameloft* | Remove-AppxPackage"
     },
     {
@@ -306,17 +306,17 @@
     },
     {
         "name":  "iTunes",
-        "description":  "iTunes est un lecteur multimÃƒÂ©dia et une bibliothÃƒÂ¨que.",
+        "description":  "iTunes est un lecteur multimédia et une bibliothèque.",
         "removeCommand":  "Get-AppxPackage *iTunes* | Remove-AppxPackage"
     },
     {
         "name":  "Khan",
-        "description":  "Khan Academy est une plateforme ÃƒÂ©ducative.",
+        "description":  "Khan Academy est une plateforme éducative.",
         "removeCommand":  "Get-AppxPackage *Khan* | Remove-AppxPackage"
     },
     {
         "name":  "King",
-        "description":  "King est un dÃƒÂ©veloppeur de jeux connu pour Candy Crush.",
+        "description":  "King est un développeur de jeux connu pour Candy Crush.",
         "removeCommand":  "Get-AppxPackage *King* | Remove-AppxPackage"
     },
     {
@@ -326,12 +326,12 @@
     },
     {
         "name":  "Minecraft",
-        "description":  "Minecraft est un jeu de type bac ÃƒÂ  sable populaire.",
+        "description":  "Minecraft est un jeu de type bac à sable populaire.",
         "removeCommand":  "Get-AppxPackage *Minecraft* | Remove-AppxPackage"
     },
     {
         "name":  "NordVPN",
-        "description":  "NordVPN est un service de rÃƒÂ©seau privÃƒÂ© virtuel.",
+        "description":  "NordVPN est un service de réseau privé virtuel.",
         "removeCommand":  "Get-AppxPackage *NordVPN* | Remove-AppxPackage"
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "name":  "Plex",
-        "description":  "Plex est un serveur multimÃƒÂ©dia et une application de streaming.",
+        "description":  "Plex est un serveur multimédia et une application de streaming.",
         "removeCommand":  "Get-AppxPackage *Plex* | Remove-AppxPackage"
     },
     {
@@ -366,12 +366,12 @@
     },
     {
         "name":  "Razer",
-        "description":  "Razer est un fabricant de matÃƒÂ©riel de jeu.",
+        "description":  "Razer est un fabricant de matériel de jeu.",
         "removeCommand":  "Get-AppxPackage *Razer* | Remove-AppxPackage"
     },
     {
         "name":  "Samsung",
-        "description":  "Samsung est une entreprise d\u0027ÃƒÂ©lectronique.",
+        "description":  "Samsung est une entreprise d\u0027électronique.",
         "removeCommand":  "Get-AppxPackage *Samsung* | Remove-AppxPackage"
     },
     {
@@ -381,7 +381,7 @@
     },
     {
         "name":  "Snapchat",
-        "description":  "Snapchat est une application de messagerie multimÃƒÂ©dia.",
+        "description":  "Snapchat est une application de messagerie multimédia.",
         "removeCommand":  "Get-AppxPackage *Snapchat* | Remove-AppxPackage"
     },
     {
@@ -406,7 +406,7 @@
     },
     {
         "name":  "VLC",
-        "description":  "VLC media player est un lecteur multimÃƒÂ©dia.",
+        "description":  "VLC media player est un lecteur multimédia.",
         "removeCommand":  "Get-AppxPackage *VLC* | Remove-AppxPackage"
     },
     {
@@ -416,22 +416,22 @@
     },
     {
         "name":  "Wikipedia",
-        "description":  "Wikipedia est une encyclopÃƒÂ©die en ligne gratuite.",
+        "description":  "Wikipedia est une encyclopédie en ligne gratuite.",
         "removeCommand":  "Get-AppxPackage *Wikipedia* | Remove-AppxPackage"
     },
     {
         "name":  "Wish",
-        "description":  "Wish est une plateforme de commerce ÃƒÂ©lectronique.",
+        "description":  "Wish est une plateforme de commerce électronique.",
         "removeCommand":  "Get-AppxPackage *Wish* | Remove-AppxPackage"
     },
     {
         "name":  "Wix",
-        "description":  "Wix est une plateforme de crÃƒÂ©ation de sites web.",
+        "description":  "Wix est une plateforme de création de sites web.",
         "removeCommand":  "Get-AppxPackage *Wix* | Remove-AppxPackage"
     },
     {
         "name":  "Wordpress",
-        "description":  "WordPress est un systÃƒÂ¨me de gestion de contenu.",
+        "description":  "WordPress est un système de gestion de contenu.",
         "removeCommand":  "Get-AppxPackage *Wordpress* | Remove-AppxPackage"
     },
     {
@@ -441,22 +441,22 @@
     },
     {
         "name":  "Zoom",
-        "description":  "Zoom est une application de visioconfÃƒÂ©rence.",
+        "description":  "Zoom est une application de visioconférence.",
         "removeCommand":  "Get-AppxPackage *Zoom* | Remove-AppxPackage"
     },
     {
         "name":  "Zynga",
-        "description":  "Zynga est un dÃƒÂ©veloppeur de jeux connu pour ses jeux sociaux.",
+        "description":  "Zynga est un développeur de jeux connu pour ses jeux sociaux.",
         "removeCommand":  "Get-AppxPackage *Zynga* | Remove-AppxPackage"
     },
     {
         "name":  "Amazon",
-        "description":  "Amazon est une entreprise de commerce ÃƒÂ©lectronique et de cloud computing.",
+        "description":  "Amazon est une entreprise de commerce électronique et de cloud computing.",
         "removeCommand":  "Get-AppxPackage *Amazon* | Remove-AppxPackage"
     },
     {
         "name":  "Apple",
-        "description":  "Apple est une entreprise technologique connue pour ses produits matÃƒÂ©riels et logiciels.",
+        "description":  "Apple est une entreprise technologique connue pour ses produits matériels et logiciels.",
         "removeCommand":  "Get-AppxPackage *Apple* | Remove-AppxPackage"
     },
     {
@@ -476,22 +476,22 @@
     },
     {
         "name":  "Illustrator",
-        "description":  "Illustrator est un ÃƒÂ©diteur de graphiques vectoriels d\u0027Adobe.",
+        "description":  "Illustrator est un éditeur de graphiques vectoriels d\u0027Adobe.",
         "removeCommand":  "Get-AppxPackage *Illustrator* | Remove-AppxPackage"
     },
     {
         "name":  "Premiere",
-        "description":  "Premiere Pro est un logiciel de montage vidÃƒÂ©o d\u0027Adobe.",
+        "description":  "Premiere Pro est un logiciel de montage vidéo d\u0027Adobe.",
         "removeCommand":  "Get-AppxPackage *Premiere* | Remove-AppxPackage"
     },
     {
         "name":  "After",
-        "description":  "After Effects est un logiciel de conception graphique animÃƒÂ©e et d\u0027effets visuels d\u0027Adobe.",
+        "description":  "After Effects est un logiciel de conception graphique animée et d\u0027effets visuels d\u0027Adobe.",
         "removeCommand":  "Get-AppxPackage *After* | Remove-AppxPackage"
     },
     {
         "name":  "Effects",
-        "description":  "After Effects est un logiciel de conception graphique animÃƒÂ©e et d\u0027effets visuels d\u0027Adobe.",
+        "description":  "After Effects est un logiciel de conception graphique animée et d\u0027effets visuels d\u0027Adobe.",
         "removeCommand":  "Get-AppxPackage *Effects* | Remove-AppxPackage"
     },
     {
@@ -506,7 +506,7 @@
     },
     {
         "name":  "Acrobat",
-        "description":  "Acrobat est un logiciel pour crÃƒÂ©er, manipuler et visualiser des fichiers PDF d\u0027Adobe.",
+        "description":  "Acrobat est un logiciel pour créer, manipuler et visualiser des fichiers PDF d\u0027Adobe.",
         "removeCommand":  "Get-AppxPackage *Acrobat* | Remove-AppxPackage"
     },
     {
@@ -516,7 +516,7 @@
     },
     {
         "name":  "Friends",
-        "description":  "Facebook est une plateforme de mÃƒÂ©dias sociaux.",
+        "description":  "Facebook est une plateforme de médias sociaux.",
         "removeCommand":  "Get-AppxPackage *Friends* | Remove-AppxPackage"
     },
     {
@@ -531,7 +531,7 @@
     },
     {
         "name":  "Puzzle",
-        "description":  "Puzzle \u0026 Dragons est un jeu de rÃƒÂ´le et de puzzle.",
+        "description":  "Puzzle \u0026 Dragons est un jeu de rôle et de puzzle.",
         "removeCommand":  "Get-AppxPackage *Puzzle* | Remove-AppxPackage"
     },
     {

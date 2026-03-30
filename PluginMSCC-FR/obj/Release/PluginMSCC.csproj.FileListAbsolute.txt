@@ -1,0 +1,4 @@
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\PluginMSCC.csproj.AssemblyReference.cache
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\MSCleanupCompanion.MSCCPluginControl.resources
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\PluginMSCC.csproj.GenerateResource.cache
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\PluginMSCC.csproj.CoreCompileInputs.cache

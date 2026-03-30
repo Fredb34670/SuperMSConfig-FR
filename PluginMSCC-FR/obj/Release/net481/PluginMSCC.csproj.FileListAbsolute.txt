@@ -1,0 +1,14 @@
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\bin\Release\MSCleanupCompanion.dll
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\bin\Release\MSCleanupCompanion.pdb
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\bin\Release\System.Management.Automation.dll
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\bin\Release\Newtonsoft.Json.dll
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\bin\Release\PluginInterface.dll
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.csproj.AssemblyReference.cache
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\MSCleanupCompanion.MSCCPluginControl.resources
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.csproj.GenerateResource.cache
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.csproj.CoreCompileInputs.cache
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.sourcelink.json
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\PluginMSCC.csproj.Up2Date
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\MSCleanupCompanion.dll
+F:\Projets en cours\SuperMSConfig-FR\SuperMSConfig-Francais\PluginMSCC-FR\obj\Release\net481\MSCleanupCompanion.pdb
