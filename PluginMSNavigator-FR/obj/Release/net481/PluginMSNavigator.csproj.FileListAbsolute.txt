@@ -1,0 +1,14 @@
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMSNavigator.csproj.AssemblyReference.cache
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\MSNavigator.MSNavigatorPluginControl.resources
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMSNavigator.csproj.GenerateResource.cache
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMSNavigator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMSNavigator.csproj.CoreCompileInputs.cache
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMSNavigator.sourcelink.json
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\bin\Release\MSNavigator.dll
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\bin\Release\MSNavigator.pdb
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\bin\Release\System.Management.Automation.dll
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\bin\Release\Newtonsoft.Json.dll
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\bin\Release\PluginInterface.dll
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\PluginMS.60E6847A.Up2Date
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\MSNavigator.dll
+F:\Projets en cours\SuperMSConfig-FR\PluginMSNavigator-FR\obj\Release\net481\MSNavigator.pdb

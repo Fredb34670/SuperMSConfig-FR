@@ -1,677 +1,677 @@
-[
+﻿[
     {
-        "question":  "AccÃƒÂ©dez aux paramÃƒÂ¨tres du compte pour gÃƒÂ©rer votre compte Microsoft.",
-        "response":  "Ajouter un compte Microsoft",
+        "question":  "Ajouter un compte Microsoft",
+        "response":  "Accédez aux paramètres du compte pour gérer votre compte Microsoft.",
         "action":  "ms-settings:privacy-accountinfo"
     },
     {
-        "question":  "Configurez un code PIN dans les options de connexion pour un accÃƒÂ¨s rapide.",
-        "response":  "Configurer un code PIN",
+        "question":  "Configurer un code PIN",
+        "response":  "Configurez un code PIN dans les options de connexion pour un accès rapide.",
         "action":  "ms-settings:signinoptions"
     },
     {
-        "question":  "VÃƒÂ©rifiez et installez les mises ÃƒÂ  jour via les paramÃƒÂ¨tres Windows Update.",
-        "response":  "Rechercher des mises ÃƒÂ  jour Windows",
+        "question":  "Rechercher des mises à jour Windows",
+        "response":  "Vérifiez et installez les mises à jour via les paramètres Windows Update.",
         "action":  "ms-settings:windowsupdate"
     },
     {
-        "question":  "Configurez les options de sauvegarde dans les paramÃƒÂ¨tres de sauvegarde, avec Appcopier pour les besoins avancÃƒÂ©s.",
-        "response":  "GÃƒÂ©rer les sauvegardes",
+        "question":  "Gérer les sauvegardes",
+        "response":  "Configurez les options de sauvegarde dans les paramètres de sauvegarde, avec Appcopier pour les besoins avancés.",
         "action":  "ms-settings:backup"
     },
     {
-        "question":  "ContrÃƒÂ´lez les autorisations des applications dans les paramÃƒÂ¨tres de confidentialitÃƒÂ©.",
-        "response":  "ParamÃƒÂ¨tres de confidentialitÃƒÂ©",
+        "question":  "Paramètres de confidentialité",
+        "response":  "Contrôlez les autorisations des applications dans les paramètres de confidentialité.",
         "action":  "ms-settings:privacy"
     },
     {
-        "question":  "GÃƒÂ©rez vos notifications dans les paramÃƒÂ¨tres de notification.",
-        "response":  "ParamÃƒÂ¨tres de notification",
+        "question":  "Paramètres de notification",
+        "response":  "Gérez vos notifications dans les paramètres de notification.",
         "action":  "ms-settings:notifications"
     },
     {
-        "question":  "Ajustez la rÃƒÂ©solution, l\u0027orientation et les affichages multiples.",
-        "response":  "ParamÃƒÂ¨tres d\u0027affichage",
+        "question":  "Paramètres d\u0027affichage",
+        "response":  "Ajustez la résolution, l\u0027orientation et les affichages multiples.",
         "action":  "ms-settings:display"
     },
     {
-        "question":  "Optimisez l\u0027utilisation de l\u0027ÃƒÂ©nergie et les paramÃƒÂ¨tres de mise en veille de l\u0027ÃƒÂ©cran.",
-        "response":  "ParamÃƒÂ¨tres d\u0027alimentation et de mise en veille",
+        "question":  "Paramètres d\u0027alimentation et de mise en veille",
+        "response":  "Optimisez l\u0027utilisation de l\u0027énergie et les paramètres de mise en veille de l\u0027écran.",
         "action":  "ms-settings:powersleep"
     },
     {
-        "question":  "Configurez les paramÃƒÂ¨tres Wi-Fi et Ethernet.",
-        "response":  "ParamÃƒÂ¨tres rÃƒÂ©seau et Internet",
+        "question":  "Paramètres réseau et Internet",
+        "response":  "Configurez les paramètres Wi-Fi et Ethernet.",
         "action":  "ms-settings:network"
     },
     {
-        "question":  "Couplez et gÃƒÂ©rez les appareils Bluetooth.",
-        "response":  "ParamÃƒÂ¨tres Bluetooth",
+        "question":  "Paramètres Bluetooth",
+        "response":  "Couplez et gérez les appareils Bluetooth.",
         "action":  "ms-settings:bluetooth"
     },
     {
-        "question":  "Personnalisez la disposition du menu DÃƒÂ©marrer.",
-        "response":  "Personnalisation du menu DÃƒÂ©marrer",
+        "question":  "Personnalisation du menu Démarrer",
+        "response":  "Personnalisez la disposition du menu Démarrer.",
         "action":  "ms-settings:personalization-start"
     },
     {
-        "question":  "GÃƒÂ©rez les comptes d\u0027utilisateurs et les paramÃƒÂ¨tres familiaux.",
-        "response":  "ParamÃƒÂ¨tres du compte",
+        "question":  "Paramètres du compte",
+        "response":  "Gérez les comptes d\u0027utilisateurs et les paramètres familiaux.",
         "action":  "ms-settings:accounts"
     },
     {
-        "question":  "Ajustez les paramÃƒÂ¨tres d\u0027accessibilitÃƒÂ©.",
-        "response":  "ParamÃƒÂ¨tres d\u0027ergonomie",
+        "question":  "Paramètres d\u0027ergonomie",
+        "response":  "Ajustez les paramètres d\u0027accessibilité.",
         "action":  "ms-settings:easeofaccess"
     },
     {
-        "question":  "DÃƒÂ©finissez vos applications par dÃƒÂ©faut.",
-        "response":  "ParamÃƒÂ¨tres des applications par dÃƒÂ©faut",
+        "question":  "Paramètres des applications par défaut",
+        "response":  "Définissez vos applications par défaut.",
         "action":  "ms-settings:defaultapps"
     },
     {
-        "question":  "GÃƒÂ©rez le stockage et configurez l\u0027Assistant de stockage.",
-        "response":  "ParamÃƒÂ¨tres de stockage",
+        "question":  "Paramètres de stockage",
+        "response":  "Gérez le stockage et configurez l\u0027Assistant de stockage.",
         "action":  "ms-settings:storage"
     },
     {
-        "question":  "Configurez le multitÃƒÂ¢che et la gestion des fenÃƒÂªtres.",
-        "response":  "ParamÃƒÂ¨tres multitÃƒÂ¢che",
+        "question":  "Paramètres multitÃƒÂ¢che",
+        "response":  "Configurez le multitÃƒÂ¢che et la gestion des fenêtres.",
         "action":  "ms-settings:multitasking"
     },
     {
-        "question":  "Optimisez les performances et les effets visuels.",
-        "response":  "ParamÃƒÂ¨tres de performance",
+        "question":  "Paramètres de performance",
+        "response":  "Optimisez les performances et les effets visuels.",
         "action":  "ms-settings:performance"
     },
     {
-        "question":  "GÃƒÂ©rez les paramÃƒÂ¨tres antivirus et pare-feu.",
-        "response":  "ParamÃƒÂ¨tres de sÃƒÂ©curitÃƒÂ© Windows",
+        "question":  "Paramètres de sécurité Windows",
+        "response":  "Gérez les paramètres antivirus et pare-feu.",
         "action":  "ms-settings:windowsdefender"
     },
     {
-        "question":  "Examinez l\u0027utilisation de la batterie et les options d\u0027ÃƒÂ©conomie.",
-        "response":  "DÃƒÂ©tails d\u0027utilisation de l\u0027ÃƒÂ©conomiseur de batterie",
+        "question":  "Détails d\u0027utilisation de l\u0027économiseur de batterie",
+        "response":  "Examinez l\u0027utilisation de la batterie et les options d\u0027économie.",
         "action":  "ms-settings:batterysaver-usagedetails"
     },
     {
-        "question":  "GÃƒÂ©rez les appareils et pÃƒÂ©riphÃƒÂ©riques connectÃƒÂ©s.",
-        "response":  "Appareils supplÃƒÂ©mentaires",
+        "question":  "Appareils supplémentaires",
+        "response":  "Gérez les appareils et périphériques connectés.",
         "action":  "ms-settings:privacy-customdevices"
     },
     {
-        "question":  "Changez votre fond d\u0027ÃƒÂ©cran.",
-        "response":  "Changer l\u0027arriÃƒÂ¨re-plan",
+        "question":  "Changer l\u0027arrière-plan",
+        "response":  "Changez votre fond d\u0027écran.",
         "action":  "ms-settings:personalization-background"
     },
     {
-        "question":  "DÃƒÂ©finissez les couleurs d\u0027accentuation et basculez entre le mode sombre et clair.",
-        "response":  "Personnaliser les couleurs",
+        "question":  "Personnaliser les couleurs",
+        "response":  "Définissez les couleurs d\u0027accentuation et basculez entre le mode sombre et clair.",
         "action":  "ms-settings:personalization-colors"
     },
     {
-        "question":  "Personnalisez l\u0027apparence de l\u0027ÃƒÂ©cran de verrouillage.",
-        "response":  "ParamÃƒÂ¨tres de l\u0027ÃƒÂ©cran de verrouillage",
+        "question":  "Paramètres de l\u0027écran de verrouillage",
+        "response":  "Personnalisez l\u0027apparence de l\u0027écran de verrouillage.",
         "action":  "ms-settings:personalization-lockscreen"
     },
     {
-        "question":  "SÃƒÂ©lectionnez et modifiez les thÃƒÂ¨mes Windows.",
-        "response":  "ParamÃƒÂ¨tres des thÃƒÂ¨mes",
+        "question":  "Paramètres des thèmes",
+        "response":  "Sélectionnez et modifiez les thèmes Windows.",
         "action":  "ms-settings:personalization-themes"
     },
     {
-        "question":  "GÃƒÂ©rez les polices installÃƒÂ©es et les paramÃƒÂ¨tres.",
-        "response":  "ParamÃƒÂ¨tres des polices",
+        "question":  "Paramètres des polices",
+        "response":  "Gérez les polices installées et les paramètres.",
         "action":  "ms-settings:fonts"
     },
     {
-        "question":  "Configurez vos prÃƒÂ©fÃƒÂ©rences d\u0027ÃƒÂ©conomiseur d\u0027ÃƒÂ©cran.",
-        "response":  "ParamÃƒÂ¨tres de l\u0027ÃƒÂ©conomiseur d\u0027ÃƒÂ©cran",
+        "question":  "Paramètres de l\u0027économiseur d\u0027écran",
+        "response":  "Configurez vos préférences d\u0027économiseur d\u0027écran.",
         "action":  "ms-settings:personalization-screensaver"
     },
     {
-        "question":  "DÃƒÂ©finissez les formats rÃƒÂ©gionaux pour la date et l\u0027heure.",
-        "response":  "ParamÃƒÂ¨tres de format rÃƒÂ©gional",
+        "question":  "Paramètres de format régional",
+        "response":  "Définissez les formats régionaux pour la date et l\u0027heure.",
         "action":  "ms-settings:regionformat"
     },
     {
-        "question":  "Ajustez la date, l\u0027heure et le fuseau horaire du systÃƒÂ¨me.",
-        "response":  "ParamÃƒÂ¨tres de date et heure",
+        "question":  "Paramètres de date et heure",
+        "response":  "Ajustez la date, l\u0027heure et le fuseau horaire du système.",
         "action":  "ms-settings:dateandtime"
     },
     {
-        "question":  "Affichez la version actuelle de Windows.",
-        "response":  "Afficher la version de Windows",
+        "question":  "Afficher la version de Windows",
+        "response":  "Affichez la version actuelle de Windows.",
         "action":  "ms-settings:about"
     },
     {
-        "question":  "Listez tous les services en cours d\u0027exÃƒÂ©cution via PowerShell.",
-        "response":  "Lister tous les services",
+        "question":  "Lister tous les services",
+        "response":  "Listez tous les services en cours d\u0027exécution via PowerShell.",
         "action":  "powershell:Get-Service"
     },
     {
-        "question":  "VÃƒÂ©rifiez l\u0027espace disque disponible via CMD.",
-        "response":  "VÃƒÂ©rifier l\u0027espace disque",
+        "question":  "Vérifier l\u0027espace disque",
+        "response":  "Vérifiez l\u0027espace disque disponible via CMD.",
         "action":  "cmd:wmic logicaldisk get size,freespace,caption"
     },
     {
-        "question":  "Affichez les informations systÃƒÂ¨me dÃƒÂ©taillÃƒÂ©es via PowerShell.",
-        "response":  "Afficher les informations systÃƒÂ¨me",
+        "question":  "Afficher les informations système",
+        "response":  "Affichez les informations système détaillées via PowerShell.",
         "action":  "powershell:systeminfo"
     },
     {
-        "question":  "Affichez les paramÃƒÂ¨tres de la carte rÃƒÂ©seau via CMD.",
-        "response":  "Configuration rÃƒÂ©seau",
+        "question":  "Configuration réseau",
+        "response":  "Affichez les paramètres de la carte réseau via CMD.",
         "action":  "cmd:netsh interface ipv4 show config"
     },
     {
-        "question":  "Affichez les processus actifs via PowerShell.",
-        "response":  "Afficher les processus en cours d\u0027exÃƒÂ©cution",
+        "question":  "Afficher les processus en cours d\u0027exécution",
+        "response":  "Affichez les processus actifs via PowerShell.",
         "action":  "powershell:Get-Process"
     },
     {
-        "question":  "Obtenez une liste des programmes installÃƒÂ©s.",
-        "response":  "Lister les programmes installÃƒÂ©s",
+        "question":  "Lister les programmes installés",
+        "response":  "Obtenez une liste des programmes installés.",
         "action":  "powershell:Get-WmiObject -Class Win32_Product"
     },
     {
-        "question":  "RÃƒÂ©cupÃƒÂ©rez les dÃƒÂ©tails de la version de Windows.",
-        "response":  "VÃƒÂ©rifier la version de Windows",
+        "question":  "Vérifier la version de Windows",
+        "response":  "Récupérez les détails de la version de Windows.",
         "action":  "powershell:Get-ComputerInfo | Select-Object WindowsVersion, WindowsBuildLabEx"
     },
     {
-        "question":  "RedÃƒÂ©marrez le systÃƒÂ¨me maintenant.",
-        "response":  "RedÃƒÂ©marrer l\u0027ordinateur",
+        "question":  "Redémarrer l\u0027ordinateur",
+        "response":  "Redémarrez le système maintenant.",
         "action":  "cmd:shutdown /r /t 0"
     },
     {
-        "question":  "GÃƒÂ©rez les tÃƒÂ¢ches et les processus.",
-        "response":  "Ouvrir le Gestionnaire des tÃƒÂ¢ches",
+        "question":  "Ouvrir le Gestionnaire des tÃƒÂ¢ches",
+        "response":  "Gérez les tÃƒÂ¢ches et les processus.",
         "action":  "cmd:taskmgr"
     },
     {
-        "question":  "Afficher les informations systÃƒÂ¨me dÃƒÂ©taillÃƒÂ©es.",
-        "response":  "Voir les informations systÃƒÂ¨me",
+        "question":  "Voir les informations système",
+        "response":  "Afficher les informations système détaillées.",
         "action":  "cmd:systeminfo"
     },
     {
-        "question":  "Installez 7-zip pour l\u0027archivage de fichiers ÃƒÂ  haute compression.",
-        "response":  "Installer 7-zip",
+        "question":  "Installer 7-zip",
+        "response":  "Installez 7-zip pour l\u0027archivage de fichiers à haute compression.",
         "action":  "install:7Zip.7zip"
     },
     {
-        "question":  "Installez IrfanView, une visionneuse d\u0027images rapide.",
-        "response":  "Installer IrfanView",
+        "question":  "Installer IrfanView",
+        "response":  "Installez IrfanView, une visionneuse d\u0027images rapide.",
         "action":  "install:IrfanSkiljan.IrfanView"
     },
     {
-        "question":  "Installez Google Chrome, un navigateur rapide et sÃƒÂ©curisÃƒÂ©.",
-        "response":  "Installer Google Chrome",
+        "question":  "Installer Google Chrome",
+        "response":  "Installez Google Chrome, un navigateur rapide et sécurisé.",
         "action":  "install:Google.Chrome"
     },
     {
-        "question":  "Installez Firefox, un navigateur libre et open-source.",
-        "response":  "Installer Mozilla Firefox",
+        "question":  "Installer Mozilla Firefox",
+        "response":  "Installez Firefox, un navigateur libre et open-source.",
         "action":  "install:Mozilla.Firefox"
     },
     {
-        "question":  "Installez Opera, un navigateur avec des fonctionnalitÃƒÂ©s supplÃƒÂ©mentaires.",
-        "response":  "Installer Opera",
+        "question":  "Installer Opera",
+        "response":  "Installez Opera, un navigateur avec des fonctionnalités supplémentaires.",
         "action":  "install:Opera.Opera"
     },
     {
-        "question":  "Installez Vivaldi, un navigateur personnalisable.",
-        "response":  "Installer Vivaldi",
+        "question":  "Installer Vivaldi",
+        "response":  "Installez Vivaldi, un navigateur personnalisable.",
         "action":  "install:Vivaldi.Vivaldi"
     },
     {
-        "question":  "Installez Arc, un nouveau navigateur avec des fonctionnalitÃƒÂ©s personnalisables.",
-        "response":  "Installer Arc",
+        "question":  "Installer Arc",
+        "response":  "Installez Arc, un nouveau navigateur avec des fonctionnalités personnalisables.",
         "action":  "install:TheBrowserCompany.Arc"
     },
     {
-        "question":  "Installez Notepad++, un ÃƒÂ©diteur de code polyvalent.",
-        "response":  "Installer Notepad++",
+        "question":  "Installer Notepad++",
+        "response":  "Installez Notepad++, un éditeur de code polyvalent.",
         "action":  "install:Notepad++.Notepad++"
     },
     {
-        "question":  "AccÃƒÂ©dez aux options de rÃƒÂ©cupÃƒÂ©ration du systÃƒÂ¨me.",
-        "response":  "Options de rÃƒÂ©cupÃƒÂ©ration du systÃƒÂ¨me",
+        "question":  "Options de récupération du système",
+        "response":  "Accédez aux options de récupération du système.",
         "action":  "ms-settings:recovery"
     },
     {
-        "question":  "Configurez et gÃƒÂ©rez la famille et les autres utilisateurs.",
-        "response":  "Famille et autres utilisateurs",
+        "question":  "Famille et autres utilisateurs",
+        "response":  "Configurez et gérez la famille et les autres utilisateurs.",
         "action":  "ms-settings:otherusers"
     },
     {
-        "question":  "AccÃƒÂ©dez au Nettoyage de disque pour libÃƒÂ©rer de l\u0027espace.",
-        "response":  "Utilitaire de nettoyage de disque",
+        "question":  "Utilitaire de nettoyage de disque",
+        "response":  "Accédez au Nettoyage de disque pour libérer de l\u0027espace.",
         "action":  "cmd:cleanmgr"
     },
     {
-        "question":  "GÃƒÂ©rez les paramÃƒÂ¨tres d\u0027affichage avancÃƒÂ©s.",
-        "response":  "ParamÃƒÂ¨tres d\u0027affichage avancÃƒÂ©s",
+        "question":  "Paramètres d\u0027affichage avancés",
+        "response":  "Gérez les paramètres d\u0027affichage avancés.",
         "action":  "ms-settings:display-advanced"
     },
     {
-        "question":  "GÃƒÂ©rez les paramÃƒÂ¨tres de protection du systÃƒÂ¨me.",
-        "response":  "ParamÃƒÂ¨tres de protection du systÃƒÂ¨me",
+        "question":  "Paramètres de protection du système",
+        "response":  "Gérez les paramètres de protection du système.",
         "action":  "cmd:sysdm.cpl,,4"
     },
     {
-        "question":  "GÃƒÂ©rez les points de restauration du systÃƒÂ¨me.",
-        "response":  "CrÃƒÂ©er un point de restauration systÃƒÂ¨me",
+        "question":  "Créer un point de restauration système",
+        "response":  "Gérez les points de restauration du système.",
         "action":  "powershell:Checkpoint-Computer -Description \"xd-AntiSpy\" -RestorePointType \"MODIFY_SETTINGS\""
     },
     {
-        "question":  "Analysez le systÃƒÂ¨me pour trouver des fichiers corrompus (sfc).",
-        "response":  "ExÃƒÂ©cuter une analyse SFC",
+        "question":  "Exécuter une analyse SFC",
+        "response":  "Analysez le système pour trouver des fichiers corrompus (sfc).",
         "action":  "cmd:sfc /scannow"
     },
     {
-        "question":  "VÃƒÂ©rifiez l\u0027ÃƒÂ©tat du disque et rÃƒÂ©parez les problÃƒÂ¨mes.",
-        "response":  "ExÃƒÂ©cuter CHKDSK",
+        "question":  "Exécuter CHKDSK",
+        "response":  "Vérifiez l\u0027état du disque et réparez les problèmes.",
         "action":  "cmd:chkdsk /f /r"
     },
     {
-        "question":  "AccÃƒÂ©dez ÃƒÂ  l\u0027historique de Windows Update.",
-        "response":  "Voir l\u0027historique des mises ÃƒÂ  jour",
+        "question":  "Voir l\u0027historique des mises à jour",
+        "response":  "Accédez à l\u0027historique de Windows Update.",
         "action":  "ms-settings:windowsupdate-history"
     },
     {
-        "question":  "Modifiez les paramÃƒÂ¨tres de contrÃƒÂ´le de compte d\u0027utilisateur (UAC).",
-        "response":  "ParamÃƒÂ¨tres UAC",
+        "question":  "Paramètres UAC",
+        "response":  "Modifiez les paramètres de contrôle de compte d\u0027utilisateur (UAC).",
         "action":  "cmd:useraccountcontrolsettings"
     },
     {
-        "question":  "Activez ou dÃƒÂ©sactivez les fonctionnalitÃƒÂ©s de Windows.",
-        "response":  "ParamÃƒÂ¨tres des fonctionnalitÃƒÂ©s Windows",
+        "question":  "Paramètres des fonctionnalités Windows",
+        "response":  "Activez ou désactivez les fonctionnalités de Windows.",
         "action":  "cmd:optionalfeatures"
     },
     {
-        "question":  "AccÃƒÂ©dez au Planificateur de tÃƒÂ¢ches pour automatiser les tÃƒÂ¢ches.",
-        "response":  "Ouvrir le Planificateur de tÃƒÂ¢ches",
+        "question":  "Ouvrir le Planificateur de tÃƒÂ¢ches",
+        "response":  "Accédez au Planificateur de tÃƒÂ¢ches pour automatiser les tÃƒÂ¢ches.",
         "action":  "cmd:taskschd.msc"
     },
     {
-        "question":  "GÃƒÂ©rez vos paramÃƒÂ¨tres de pare-feu Windows.",
-        "response":  "ParamÃƒÂ¨tres du pare-feu Windows",
+        "question":  "Paramètres du pare-feu Windows",
+        "response":  "Gérez vos paramètres de pare-feu Windows.",
         "action":  "cmd:firewall.cpl"
     },
     {
-        "question":  "Ouvrez l\u0027Observateur d\u0027ÃƒÂ©vÃƒÂ©nements pour surveiller les journaux systÃƒÂ¨me.",
-        "response":  "Ouvrir l\u0027Observateur d\u0027ÃƒÂ©vÃƒÂ©nements",
+        "question":  "Ouvrir l\u0027Observateur d\u0027événements",
+        "response":  "Ouvrez l\u0027Observateur d\u0027événements pour surveiller les journaux système.",
         "action":  "cmd:eventvwr"
     },
     {
-        "question":  "AccÃƒÂ©dez ÃƒÂ  l\u0027Analyseur de performances pour suivre les performances du systÃƒÂ¨me.",
-        "response":  "Ouvrir l\u0027Analyseur de performances",
+        "question":  "Ouvrir l\u0027Analyseur de performances",
+        "response":  "Accédez à l\u0027Analyseur de performances pour suivre les performances du système.",
         "action":  "cmd:perfmon"
     },
     {
-        "question":  "AccÃƒÂ©dez au Gestionnaire de pÃƒÂ©riphÃƒÂ©riques pour gÃƒÂ©rer les pÃƒÂ©riphÃƒÂ©riques matÃƒÂ©riels.",
-        "response":  "Ouvrir le Gestionnaire de pÃƒÂ©riphÃƒÂ©riques",
+        "question":  "Ouvrir le Gestionnaire de périphériques",
+        "response":  "Accédez au Gestionnaire de périphériques pour gérer les périphériques matériels.",
         "action":  "cmd:devmgmt.msc"
     },
     {
-        "question":  "AccÃƒÂ©dez aux Connexions rÃƒÂ©seau pour gÃƒÂ©rer les cartes rÃƒÂ©seau.",
-        "response":  "Ouvrir les connexions rÃƒÂ©seau",
+        "question":  "Ouvrir les connexions réseau",
+        "response":  "Accédez aux Connexions réseau pour gérer les cartes réseau.",
         "action":  "cmd:ncpa.cpl"
     },
     {
-        "question":  "Ouvrez l\u0027Ãƒâ€°diteur de stratÃƒÂ©gie de groupe locale pour gÃƒÂ©rer les stratÃƒÂ©gies.",
-        "response":  "Ãƒâ€°diteur de stratÃƒÂ©gie de groupe locale",
+        "question":  "Éditeur de stratégie de groupe locale",
+        "response":  "Ouvrez l\u0027Éditeur de stratégie de groupe locale pour gérer les stratégies.",
         "action":  "cmd:gpedit.msc"
     },
     {
-        "question":  "Affichez et gÃƒÂ©rez les services Windows.",
-        "response":  "Ouvrir le gestionnaire de services",
+        "question":  "Ouvrir le gestionnaire de services",
+        "response":  "Affichez et gérez les services Windows.",
         "action":  "cmd:services.msc"
     },
     {
-        "question":  "AccÃƒÂ©dez ÃƒÂ  l\u0027Ãƒâ€°diteur du Registre Windows.",
-        "response":  "Ouvrir l\u0027Ãƒâ€°diteur du Registre",
+        "question":  "Ouvrir l\u0027Éditeur du Registre",
+        "response":  "Accédez à l\u0027Éditeur du Registre Windows.",
         "action":  "cmd:regedit"
     },
     {
-        "question":  "VÃƒÂ©rifiez le temps de dÃƒÂ©marrage du systÃƒÂ¨me via PowerShell.",
-        "response":  "VÃƒÂ©rifier le temps de dÃƒÂ©marrage du systÃƒÂ¨me",
+        "question":  "Vérifier le temps de démarrage du système",
+        "response":  "Vérifiez le temps de démarrage du système via PowerShell.",
         "action":  "powershell:(get-date) - (gcim Win32_OperatingSystem).LastBootUpTime"
     },
     {
-        "question":  "GÃƒÂ©nÃƒÂ©rez un rapport dÃƒÂ©taillÃƒÂ© sur la santÃƒÂ© du systÃƒÂ¨me.",
-        "response":  "GÃƒÂ©nÃƒÂ©rer un rapport sur la santÃƒÂ© du systÃƒÂ¨me",
+        "question":  "Générer un rapport sur la santé du système",
+        "response":  "Générez un rapport détaillé sur la santé du système.",
         "action":  "cmd:perfmon /report"
     },
     {
-        "question":  "Videz le cache DNS pour rÃƒÂ©soudre les problÃƒÂ¨mes de rÃƒÂ©seau.",
-        "response":  "Vider le cache DNS",
+        "question":  "Vider le cache DNS",
+        "response":  "Videz le cache DNS pour résoudre les problèmes de réseau.",
         "action":  "cmd:ipconfig /flushdns"
     },
     {
-        "question":  "RedÃƒÂ©marrez le processus Explorateur Windows.",
-        "response":  "RedÃƒÂ©marrer l\u0027Explorateur Windows",
+        "question":  "Redémarrer l\u0027Explorateur Windows",
+        "response":  "Redémarrez le processus Explorateur Windows.",
         "action":  "cmd:taskkill /f /im explorer.exe \u0026 start explorer.exe"
     },
     {
-        "question":  "Surveillez le trafic rÃƒÂ©seau en temps rÃƒÂ©el.",
-        "response":  "Surveiller le trafic rÃƒÂ©seau",
+        "question":  "Surveiller le trafic réseau",
+        "response":  "Surveillez le trafic réseau en temps réel.",
         "action":  "powershell:Get-NetAdapterStatistics"
     },
     {
-        "question":  "Obtenez les paramÃƒÂ¨tres d\u0027alimentation du systÃƒÂ¨me via PowerShell.",
-        "response":  "Obtenir les paramÃƒÂ¨tres d\u0027alimentation",
+        "question":  "Obtenir les paramètres d\u0027alimentation",
+        "response":  "Obtenez les paramètres d\u0027alimentation du système via PowerShell.",
         "action":  "powershell:powercfg /query"
     },
     {
-        "question":  "VÃƒÂ©rifiez l\u0027intÃƒÂ©gritÃƒÂ© des fichiers systÃƒÂ¨me via CMD.",
-        "response":  "VÃƒÂ©rifier l\u0027intÃƒÂ©gritÃƒÂ© du systÃƒÂ¨me",
+        "question":  "Vérifier l\u0027intégrité du système",
+        "response":  "Vérifiez l\u0027intégrité des fichiers système via CMD.",
         "action":  "cmd:DISM /Online /Cleanup-Image /CheckHealth"
     },
     {
-        "question":  "RÃƒÂ©parez les fichiers systÃƒÂ¨me via CMD.",
-        "response":  "RÃƒÂ©parer les fichiers systÃƒÂ¨me",
+        "question":  "Réparer les fichiers système",
+        "response":  "Réparez les fichiers système via CMD.",
         "action":  "cmd:DISM /Online /Cleanup-Image /RestoreHealth"
     },
     {
-        "response":  "Comment puis-je activer ou dÃƒÂ©sactiver l\u0027Antivirus Windows Defender ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e SÃƒÂ©curitÃƒÂ© Windows \u003e Protection contre les virus et menaces. Vous pouvez y basculer les paramÃƒÂ¨tres de protection.",
+        "question":  "Comment puis-je activer ou désactiver l\u0027Antivirus Windows Defender ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Sécurité Windows \u003e Protection contre les virus et menaces. Vous pouvez y basculer les paramètres de protection.",
         "action":  "ms-settings:windowsdefender"
     },
     {
-        "response":  "Comment puis-je configurer un compte utilisateur local ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Comptes \u003e Famille et autres utilisateurs \u003e Ajouter quelqu\u0027un d\u0027autre sur ce PC. Suivez les instructions pour crÃƒÂ©er un compte local.",
+        "question":  "Comment puis-je configurer un compte utilisateur local ?",
+        "response":  "Ouvrez Paramètres \u003e Comptes \u003e Famille et autres utilisateurs \u003e Ajouter quelqu\u0027un d\u0027autre sur ce PC. Suivez les instructions pour créer un compte local.",
         "action":  "ms-settings:accounts"
     },
     {
-        "response":  "Comment changer les emplacements d\u0027enregistrement par dÃƒÂ©faut pour mes fichiers ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Stockage \u003e Modifier l\u0027emplacement d\u0027enregistrement du nouveau contenu. Vous pouvez sÃƒÂ©lectionner diffÃƒÂ©rents lecteurs pour les documents, la musique, les images et les vidÃƒÂ©os.",
+        "question":  "Comment changer les emplacements d\u0027enregistrement par défaut pour mes fichiers ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e Stockage \u003e Modifier l\u0027emplacement d\u0027enregistrement du nouveau contenu. Vous pouvez sélectionner différents lecteurs pour les documents, la musique, les images et les vidéos.",
         "action":  "ms-settings:storage"
     },
     {
-        "response":  "Comment puis-je ajuster les notifications et alertes du systÃƒÂ¨me ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Notifications et actions. Ici, vous pouvez activer ou dÃƒÂ©sactiver les notifications et personnaliser les paramÃƒÂ¨tres.",
+        "question":  "Comment puis-je ajuster les notifications et alertes du système ?",
+        "response":  "Accédez à Paramètres \u003e Système \u003e Notifications et actions. Ici, vous pouvez activer ou désactiver les notifications et personnaliser les paramètres.",
         "action":  "ms-settings:notifications"
     },
     {
-        "response":  "Comment vÃƒÂ©rifier l\u0027ÃƒÂ©tat de ma carte rÃƒÂ©seau ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet \u003e Ãƒâ€°tat. Vous pouvez y consulter l\u0027ÃƒÂ©tat de vos connexions rÃƒÂ©seau.",
+        "question":  "Comment vérifier l\u0027état de ma carte réseau ?",
+        "response":  "Allez dans Paramètres \u003e Réseau et Internet \u003e État. Vous pouvez y consulter l\u0027état de vos connexions réseau.",
         "action":  "ms-settings:network"
     },
     {
-        "response":  "Comment puis-je configurer des points de restauration systÃƒÂ¨me ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e RÃƒÂ©cupÃƒÂ©ration \u003e RedÃƒÂ©marrer maintenant sous DÃƒÂ©marrage avancÃƒÂ©. SÃƒÂ©lectionnez DÃƒÂ©pannage \u003e Options avancÃƒÂ©es \u003e Restauration du systÃƒÂ¨me.",
+        "question":  "Comment puis-je configurer des points de restauration système ?",
+        "response":  "Ouvrez Paramètres \u003e Mise à jour et sécurité \u003e Récupération \u003e Redémarrer maintenant sous Démarrage avancé. Sélectionnez Dépannage \u003e Options avancées \u003e Restauration du système.",
         "action":  "ms-settings:recovery"
     },
     {
-        "response":  "Comment configurer Windows Hello pour la reconnaissance faciale ou la connexion par empreinte digitale ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Comptes \u003e Options de connexion. Choisissez Windows Hello Face ou Empreinte digitale et suivez les instructions de configuration.",
+        "question":  "Comment configurer Windows Hello pour la reconnaissance faciale ou la connexion par empreinte digitale ?",
+        "response":  "Allez dans Paramètres \u003e Comptes \u003e Options de connexion. Choisissez Windows Hello Face ou Empreinte digitale et suivez les instructions de configuration.",
         "action":  "ms-settings:signinoptions"
     },
     {
-        "response":  "Comment puis-je activer le chiffrement de l\u0027appareil ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Chiffrement de l\u0027appareil. Si disponible, activez le chiffrement de l\u0027appareil ici.",
+        "question":  "Comment puis-je activer le chiffrement de l\u0027appareil ?",
+        "response":  "Accédez à Paramètres \u003e Mise à jour et sécurité \u003e Chiffrement de l\u0027appareil. Si disponible, activez le chiffrement de l\u0027appareil ici.",
         "action":  "ms-settings:device-encryption"
     },
     {
-        "response":  "Comment accÃƒÂ©der aux paramÃƒÂ¨tres de Windows Update ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Windows Update. Vous pouvez y vÃƒÂ©rifier les mises ÃƒÂ  jour et gÃƒÂ©rer les paramÃƒÂ¨tres de mise ÃƒÂ  jour.",
+        "question":  "Comment accéder aux paramètres de Windows Update ?",
+        "response":  "Ouvrez Paramètres \u003e Mise à jour et sécurité \u003e Windows Update. Vous pouvez y vérifier les mises à jour et gérer les paramètres de mise à jour.",
         "action":  "ms-settings:windowsupdate"
     },
     {
-        "response":  "Comment puis-je afficher des informations systÃƒÂ¨me dÃƒÂ©taillÃƒÂ©es ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Ãƒâ‚¬ propos de. Vous pouvez y consulter les spÃƒÂ©cifications de votre systÃƒÂ¨me et la version de Windows.",
+        "question":  "Comment puis-je afficher des informations système détaillées ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e À propos de. Vous pouvez y consulter les spécifications de votre système et la version de Windows.",
         "action":  "ms-settings:about"
     },
     {
-        "response":  "Comment personnaliser les performances et les effets visuels ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Ãƒâ‚¬ propos de \u003e ParamÃƒÂ¨tres systÃƒÂ¨me avancÃƒÂ©s. Sous Performances, cliquez sur ParamÃƒÂ¨tres et ajustez les effets visuels.",
+        "question":  "Comment personnaliser les performances et les effets visuels ?",
+        "response":  "Ouvrez Paramètres \u003e Système \u003e À propos de \u003e Paramètres système avancés. Sous Performances, cliquez sur Paramètres et ajustez les effets visuels.",
         "action":  "sysdm.cpl"
     },
     {
-        "response":  "Comment activer ou dÃƒÂ©sactiver le Bluetooth ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e PÃƒÂ©riphÃƒÂ©riques \u003e Bluetooth et autres pÃƒÂ©riphÃƒÂ©riques. Activez ou dÃƒÂ©sactivez le Bluetooth ici.",
+        "question":  "Comment activer ou désactiver le Bluetooth ?",
+        "response":  "Accédez à Paramètres \u003e Périphériques \u003e Bluetooth et autres périphériques. Activez ou désactivez le Bluetooth ici.",
         "action":  "ms-settings:bluetooth"
     },
     {
-        "response":  "Comment puis-je ajuster les paramÃƒÂ¨tres d\u0027affichage comme la rÃƒÂ©solution et l\u0027orientation ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Affichage. Vous pouvez y modifier la rÃƒÂ©solution, l\u0027orientation et d\u0027autres paramÃƒÂ¨tres d\u0027affichage.",
+        "question":  "Comment puis-je ajuster les paramètres d\u0027affichage comme la résolution et l\u0027orientation ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e Affichage. Vous pouvez y modifier la résolution, l\u0027orientation et d\u0027autres paramètres d\u0027affichage.",
         "action":  "ms-settings:display"
     },
     {
-        "response":  "Comment configurer et gÃƒÂ©rer les options de sauvegarde ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Sauvegarde. Configurez les options de sauvegarde et gÃƒÂ©rez les sauvegardes existantes ÃƒÂ  partir de ce menu.",
+        "question":  "Comment configurer et gérer les options de sauvegarde ?",
+        "response":  "Ouvrez Paramètres \u003e Mise à jour et sécurité \u003e Sauvegarde. Configurez les options de sauvegarde et gérez les sauvegardes existantes à partir de ce menu.",
         "action":  "ms-settings:backup"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les autorisations des applications ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e ConfidentialitÃƒÂ©. Ici, vous pouvez contrÃƒÂ´ler quelles applications ont accÃƒÂ¨s ÃƒÂ  votre position, camÃƒÂ©ra, microphone et autres fonctionnalitÃƒÂ©s.",
+        "question":  "Comment puis-je gérer les autorisations des applications ?",
+        "response":  "Allez dans Paramètres \u003e Confidentialité. Ici, vous pouvez contrôler quelles applications ont accès à votre position, caméra, microphone et autres fonctionnalités.",
         "action":  "ms-settings:privacy"
     },
     {
-        "response":  "Comment personnaliser la disposition du menu DÃƒÂ©marrer ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e Personnalisation \u003e DÃƒÂ©marrer. Personnalisez ici les dossiers et les tuiles qui apparaissent dans votre menu DÃƒÂ©marrer.",
+        "question":  "Comment personnaliser la disposition du menu Démarrer ?",
+        "response":  "Accédez à Paramètres \u003e Personnalisation \u003e Démarrer. Personnalisez ici les dossiers et les tuiles qui apparaissent dans votre menu Démarrer.",
         "action":  "ms-settings:personalization-start"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les notifications pour des applications spÃƒÂ©cifiques ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Notifications et actions. Cliquez sur des applications individuelles pour personnaliser leurs paramÃƒÂ¨tres de notification.",
+        "question":  "Comment puis-je gérer les notifications pour des applications spécifiques ?",
+        "response":  "Ouvrez Paramètres \u003e Système \u003e Notifications et actions. Cliquez sur des applications individuelles pour personnaliser leurs paramètres de notification.",
         "action":  "ms-settings:notifications"
     },
     {
-        "response":  "Comment ajuster les paramÃƒÂ¨tres d\u0027alimentation et de mise en veille ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Alimentation et mise en veille. Configurez ici les paramÃƒÂ¨tres de mise en veille et les options d\u0027alimentation de votre appareil.",
+        "question":  "Comment ajuster les paramètres d\u0027alimentation et de mise en veille ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e Alimentation et mise en veille. Configurez ici les paramètres de mise en veille et les options d\u0027alimentation de votre appareil.",
         "action":  "ms-settings:powersleep"
     },
     {
-        "response":  "Comment puis-je configurer les paramÃƒÂ¨tres rÃƒÂ©seau pour le Wi-Fi et l\u0027Ethernet ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet. GÃƒÂ©rez les paramÃƒÂ¨tres Wi-Fi et Ethernet dans cette section.",
+        "question":  "Comment puis-je configurer les paramètres réseau pour le Wi-Fi et l\u0027Ethernet ?",
+        "response":  "Ouvrez Paramètres \u003e Réseau et Internet. Gérez les paramètres Wi-Fi et Ethernet dans cette section.",
         "action":  "ms-settings:network"
     },
     {
-        "response":  "Comment gÃƒÂ©rer les comptes d\u0027utilisateurs et les paramÃƒÂ¨tres familiaux ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Comptes. Ici, vous pouvez ajouter ou gÃƒÂ©rer des comptes d\u0027utilisateurs et configurer des options familiales.",
+        "question":  "Comment gérer les comptes d\u0027utilisateurs et les paramètres familiaux ?",
+        "response":  "Allez dans Paramètres \u003e Comptes. Ici, vous pouvez ajouter ou gérer des comptes d\u0027utilisateurs et configurer des options familiales.",
         "action":  "ms-settings:accounts"
     },
     {
-        "response":  "Comment puis-je accÃƒÂ©der et gÃƒÂ©rer les paramÃƒÂ¨tres de confidentialitÃƒÂ© ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e ConfidentialitÃƒÂ©. Vous pouvez y gÃƒÂ©rer les autorisations pour diverses applications et services.",
+        "question":  "Comment puis-je accéder et gérer les paramètres de confidentialité ?",
+        "response":  "Allez dans Paramètres \u003e Confidentialité. Vous pouvez y gérer les autorisations pour diverses applications et services.",
         "action":  "ms-settings:privacy"
     },
     {
-        "response":  "Comment personnaliser l\u0027apparence de l\u0027ÃƒÂ©cran de verrouillage ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e Personnalisation \u003e Ãƒâ€°cran de verrouillage. Vous pouvez choisir une image d\u0027arriÃƒÂ¨re-plan et personnaliser les notifications.",
+        "question":  "Comment personnaliser l\u0027apparence de l\u0027écran de verrouillage ?",
+        "response":  "Accédez à Paramètres \u003e Personnalisation \u003e Écran de verrouillage. Vous pouvez choisir une image d\u0027arrière-plan et personnaliser les notifications.",
         "action":  "ms-settings:personalization-lockscreen"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer et configurer l\u0027espace de stockage pour les lecteurs systÃƒÂ¨me ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Stockage. Configurez ici l\u0027utilisation du stockage et gÃƒÂ©rez l\u0027espace disque.",
+        "question":  "Comment puis-je gérer et configurer l\u0027espace de stockage pour les lecteurs système ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e Stockage. Configurez ici l\u0027utilisation du stockage et gérez l\u0027espace disque.",
         "action":  "ms-settings:storage"
     },
     {
-        "response":  "Comment configurer le contrÃƒÂ´le parental pour les comptes familiaux ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Comptes \u003e Famille et autres utilisateurs. Vous pouvez y ajouter des membres de la famille et gÃƒÂ©rer leurs autorisations.",
+        "question":  "Comment configurer le contrôle parental pour les comptes familiaux ?",
+        "response":  "Ouvrez Paramètres \u003e Comptes \u003e Famille et autres utilisateurs. Vous pouvez y ajouter des membres de la famille et gérer leurs autorisations.",
         "action":  "ms-settings:family"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer et supprimer les applications installÃƒÂ©es ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Applications \u003e Applications et fonctionnalitÃƒÂ©s. Vous pouvez voir, gÃƒÂ©rer et dÃƒÂ©sinstaller des applications ici.",
+        "question":  "Comment puis-je gérer et supprimer les applications installées ?",
+        "response":  "Allez dans Paramètres \u003e Applications \u003e Applications et fonctionnalités. Vous pouvez voir, gérer et désinstaller des applications ici.",
         "action":  "ms-settings:appsfeatures"
     },
     {
-        "response":  "Comment activer ou dÃƒÂ©sactiver le pare-feu ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e SÃƒÂ©curitÃƒÂ© Windows \u003e Pare-feu et protection rÃƒÂ©seau. Vous pouvez y basculer les paramÃƒÂ¨tres du pare-feu.",
+        "question":  "Comment activer ou désactiver le pare-feu ?",
+        "response":  "Ouvrez Paramètres \u003e Mise à jour et sécurité \u003e Sécurité Windows \u003e Pare-feu et protection réseau. Vous pouvez y basculer les paramètres du pare-feu.",
         "action":  "ms-settings:firewall"
     },
     {
-        "response":  "Comment puis-je configurer Windows Defender SmartScreen ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e SÃƒÂ©curitÃƒÂ© Windows \u003e ContrÃƒÂ´le des applications et du navigateur. Configurez ici les paramÃƒÂ¨tres SmartScreen.",
+        "question":  "Comment puis-je configurer Windows Defender SmartScreen ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Sécurité Windows \u003e Contrôle des applications et du navigateur. Configurez ici les paramètres SmartScreen.",
         "action":  "ms-settings:smartscreen"
     },
     {
-        "response":  "Comment configurer une connexion VPN ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet \u003e VPN. Vous pouvez y ajouter et gÃƒÂ©rer des connexions VPN.",
+        "question":  "Comment configurer une connexion VPN ?",
+        "response":  "Ouvrez Paramètres \u003e Réseau et Internet \u003e VPN. Vous pouvez y ajouter et gérer des connexions VPN.",
         "action":  "ms-settings:network-vpn"
     },
     {
-        "response":  "Comment puis-je configurer les mises ÃƒÂ  jour Windows pour qu\u0027elles redÃƒÂ©marrent automatiquement ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Windows Update \u003e Options avancÃƒÂ©es. Vous pouvez y configurer les options de redÃƒÂ©marrage.",
+        "question":  "Comment puis-je configurer les mises à jour Windows pour qu\u0027elles redémarrent automatiquement ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Windows Update \u003e Options avancées. Vous pouvez y configurer les options de redémarrage.",
         "action":  "ms-settings:windowsupdate-advanced"
     },
     {
-        "response":  "Comment gÃƒÂ©rer les programmes de dÃƒÂ©marrage ?",
-        "question":  "Ouvrez le Gestionnaire des tÃƒÂ¢ches (Ctrl + Maj + Ãƒâ€°chap) et allez dans l\u0027onglet DÃƒÂ©marrage. Vous pouvez y activer ou dÃƒÂ©sactiver les programmes de dÃƒÂ©marrage.",
+        "question":  "Comment gérer les programmes de démarrage ?",
+        "response":  "Ouvrez le Gestionnaire des tÃƒÂ¢ches (Ctrl + Maj + Échap) et allez dans l\u0027onglet Démarrage. Vous pouvez y activer ou désactiver les programmes de démarrage.",
         "action":  "taskmgr"
     },
     {
-        "response":  "Comment puis-je afficher et gÃƒÂ©rer les processus actifs ?",
-        "question":  "Ouvrez le Gestionnaire des tÃƒÂ¢ches (Ctrl + Maj + Ãƒâ€°chap). L\u0027onglet Processus affiche toutes les applications et processus en cours d\u0027exÃƒÂ©cution.",
+        "question":  "Comment puis-je afficher et gérer les processus actifs ?",
+        "response":  "Ouvrez le Gestionnaire des tÃƒÂ¢ches (Ctrl + Maj + Échap). L\u0027onglet Processus affiche toutes les applications et processus en cours d\u0027exécution.",
         "action":  "taskmgr"
     },
     {
-        "response":  "Comment configurer et gÃƒÂ©rer le contrÃƒÂ´le de compte d\u0027utilisateur (UAC) ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e Comptes d\u0027utilisateurs \u003e Modifier les paramÃƒÂ¨tres de contrÃƒÂ´le de compte d\u0027utilisateur. Ajustez les paramÃƒÂ¨tres UAC ici.",
+        "question":  "Comment configurer et gérer le contrôle de compte d\u0027utilisateur (UAC) ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Comptes d\u0027utilisateurs \u003e Modifier les paramètres de contrôle de compte d\u0027utilisateur. Ajustez les paramètres UAC ici.",
         "action":  "UserAccountControlSettings"
     },
     {
-        "response":  "Comment puis-je activer ou dÃƒÂ©sactiver l\u0027hibernation ?",
-        "question":  "Ouvrez l\u0027invite de commande en tant qu\u0027administrateur et exÃƒÂ©cutez `powercfg /hibernate on` ou `powercfg /hibernate off`.",
+        "question":  "Comment puis-je activer ou désactiver l\u0027hibernation ?",
+        "response":  "Ouvrez l\u0027invite de commande en tant qu\u0027administrateur et exécutez `powercfg /hibernate on` ou `powercfg /hibernate off`.",
         "action":  "cmd:powercfg /hibernate on"
     },
     {
-        "response":  "Comment gÃƒÂ©rer les versions d\u0027ÃƒÂ©valuation Windows Insider ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Programme Windows Insider. Vous pouvez y configurer vos paramÃƒÂ¨tres Insider.",
+        "question":  "Comment gérer les versions d\u0027évaluation Windows Insider ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Programme Windows Insider. Vous pouvez y configurer vos paramètres Insider.",
         "action":  "ms-settings:windowsinsider"
     },
     {
-        "response":  "Comment puis-je configurer les notifications pour les ÃƒÂ©vÃƒÂ©nements systÃƒÂ¨me ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Notifications et actions. Vous pouvez personnaliser la maniÃƒÂ¨re dont vous recevez les notifications pour les ÃƒÂ©vÃƒÂ©nements systÃƒÂ¨me.",
+        "question":  "Comment puis-je configurer les notifications pour les événements système ?",
+        "response":  "Ouvrez Paramètres \u003e Système \u003e Notifications et actions. Vous pouvez personnaliser la manière dont vous recevez les notifications pour les événements système.",
         "action":  "ms-settings:notifications"
     },
     {
-        "response":  "Comment activer et configurer les sauvegardes de l\u0027historique des fichiers ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Sauvegarde \u003e Plus d\u0027options. Vous pouvez activer ou dÃƒÂ©sactiver les sauvegardes de l\u0027historique des fichiers ici.",
+        "question":  "Comment activer et configurer les sauvegardes de l\u0027historique des fichiers ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Sauvegarde \u003e Plus d\u0027options. Vous pouvez activer ou désactiver les sauvegardes de l\u0027historique des fichiers ici.",
         "action":  "ms-settings:backup"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les fonctionnalitÃƒÂ©s Windows et les composants facultatifs ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e Programmes \u003e Activer ou dÃƒÂ©sactiver des fonctionnalitÃƒÂ©s Windows. GÃƒÂ©rez les fonctionnalitÃƒÂ©s ici.",
+        "question":  "Comment puis-je gérer les fonctionnalités Windows et les composants facultatifs ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Programmes \u003e Activer ou désactiver des fonctionnalités Windows. Gérez les fonctionnalités ici.",
         "action":  "optionalfeatures"
     },
     {
-        "response":  "Comment configurer les paramÃƒÂ¨tres rÃƒÂ©seau avancÃƒÂ©s ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet \u003e ParamÃƒÂ¨tres rÃƒÂ©seau avancÃƒÂ©s. Configurez les options rÃƒÂ©seau avancÃƒÂ©es ÃƒÂ  partir de ce menu.",
+        "question":  "Comment configurer les paramètres réseau avancés ?",
+        "response":  "Ouvrez Paramètres \u003e Réseau et Internet \u003e Paramètres réseau avancés. Configurez les options réseau avancées à partir de ce menu.",
         "action":  "ms-settings:network-advanced"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les points de restauration du systÃƒÂ¨me ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e SystÃƒÂ¨me et sÃƒÂ©curitÃƒÂ© \u003e Protection du systÃƒÂ¨me. Configurez et gÃƒÂ©rez les points de restauration ici.",
+        "question":  "Comment puis-je gérer les points de restauration du système ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Système et sécurité \u003e Protection du système. Configurez et gérez les points de restauration ici.",
         "action":  "SystemPropertiesProtection"
     },
     {
-        "response":  "Comment ajuster les paramÃƒÂ¨tres du pare-feu Windows ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e SÃƒÂ©curitÃƒÂ© Windows \u003e Pare-feu et protection rÃƒÂ©seau. Ajustez ici les paramÃƒÂ¨tres du pare-feu.",
+        "question":  "Comment ajuster les paramètres du pare-feu Windows ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Sécurité Windows \u003e Pare-feu et protection réseau. Ajustez ici les paramètres du pare-feu.",
         "action":  "ms-settings:firewall"
     },
     {
-        "response":  "Comment puis-je configurer et utiliser le Windows Sandbox ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e Programmes \u003e Activer ou dÃƒÂ©sactiver des fonctionnalitÃƒÂ©s Windows. Activez Windows Sandbox dans la liste.",
+        "question":  "Comment puis-je configurer et utiliser le Windows Sandbox ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Programmes \u003e Activer ou désactiver des fonctionnalités Windows. Activez Windows Sandbox dans la liste.",
         "action":  "optionalfeatures"
     },
     {
-        "response":  "Comment configurer le Windows Subsystem for Linux (WSL) ?",
-        "question":  "Ouvrez PowerShell en tant qu\u0027administrateur et exÃƒÂ©cutez `wsl --install`. GÃƒÂ©rez ici les paramÃƒÂ¨tres et les distributions WSL.",
+        "question":  "Comment configurer le Windows Subsystem for Linux (WSL) ?",
+        "response":  "Ouvrez PowerShell en tant qu\u0027administrateur et exécutez `wsl --install`. Gérez ici les paramètres et les distributions WSL.",
         "action":  "powershell: wsl --install"
     },
     {
-        "response":  "Comment puis-je activer ou dÃƒÂ©sactiver Cortana ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Cortana. Vous pouvez y activer ou dÃƒÂ©sactiver Cortana et configurer ses paramÃƒÂ¨tres.",
+        "question":  "Comment puis-je activer ou désactiver Cortana ?",
+        "response":  "Allez dans Paramètres \u003e Cortana. Vous pouvez y activer ou désactiver Cortana et configurer ses paramètres.",
         "action":  "ms-settings:cortana"
     },
     {
-        "response":  "Comment accÃƒÂ©der et gÃƒÂ©rer les paramÃƒÂ¨tres de proxy rÃƒÂ©seau ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet \u003e Proxy. Configurez ou supprimez ici les paramÃƒÂ¨tres de proxy.",
+        "question":  "Comment accéder et gérer les paramètres de proxy réseau ?",
+        "response":  "Ouvrez Paramètres \u003e Réseau et Internet \u003e Proxy. Configurez ou supprimez ici les paramètres de proxy.",
         "action":  "ms-settings:network-proxy"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les rÃƒÂ©seaux Wi-Fi enregistrÃƒÂ©s ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e RÃƒÂ©seau et Internet \u003e Wi-Fi \u003e GÃƒÂ©rer les rÃƒÂ©seaux connus. Vous pouvez y gÃƒÂ©rer les rÃƒÂ©seaux Wi-Fi enregistrÃƒÂ©s.",
+        "question":  "Comment puis-je gérer les réseaux Wi-Fi enregistrés ?",
+        "response":  "Accédez à Paramètres \u003e Réseau et Internet \u003e Wi-Fi \u003e Gérer les réseaux connus. Vous pouvez y gérer les réseaux Wi-Fi enregistrés.",
         "action":  "ms-settings:network-wifi"
     },
     {
-        "response":  "Comment configurer l\u0027Assistant de concentration pour minimiser les distractions ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Assistant de concentration. Vous pouvez configurer les paramÃƒÂ¨tres de l\u0027Assistant de concentration pour rÃƒÂ©duire les interruptions ÃƒÂ  certains moments.",
+        "question":  "Comment configurer l\u0027Assistant de concentration pour minimiser les distractions ?",
+        "response":  "Allez dans Paramètres \u003e Système \u003e Assistant de concentration. Vous pouvez configurer les paramètres de l\u0027Assistant de concentration pour réduire les interruptions à certains moments.",
         "action":  "ms-settings:focusassist"
     },
     {
-        "response":  "Comment puis-je activer le thÃƒÂ¨me sombre pour Windows ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e Personnalisation \u003e Couleurs. Sous \u0027Choisir votre couleur\u0027, sÃƒÂ©lectionnez Sombre pour activer le thÃƒÂ¨me sombre.",
+        "question":  "Comment puis-je activer le thème sombre pour Windows ?",
+        "response":  "Accédez à Paramètres \u003e Personnalisation \u003e Couleurs. Sous \u0027Choisir votre couleur\u0027, sélectionnez Sombre pour activer le thème sombre.",
         "action":  "ms-settings:personalization-colors"
     },
     {
-        "response":  "Comment gÃƒÂ©rer et configurer les paramÃƒÂ¨tres de synchronisation OneDrive ?",
-        "question":  "Ouvrez OneDrive ÃƒÂ  partir de la barre des tÃƒÂ¢ches et cliquez sur ParamÃƒÂ¨tres. Configurez ici les paramÃƒÂ¨tres de synchronisation.",
+        "question":  "Comment gérer et configurer les paramètres de synchronisation OneDrive ?",
+        "response":  "Ouvrez OneDrive à partir de la barre des tÃƒÂ¢ches et cliquez sur Paramètres. Configurez ici les paramètres de synchronisation.",
         "action":  "onedrive"
     },
     {
-        "response":  "Comment puis-je accÃƒÂ©der et gÃƒÂ©rer les stratÃƒÂ©gies de sÃƒÂ©curitÃƒÂ© locales ?",
-        "question":  "Ouvrez la StratÃƒÂ©gie de sÃƒÂ©curitÃƒÂ© locale via ExÃƒÂ©cuter (Win + R) et tapez `secpol.msc`. GÃƒÂ©rez ici les stratÃƒÂ©gies de sÃƒÂ©curitÃƒÂ© locales.",
+        "question":  "Comment puis-je accéder et gérer les stratégies de sécurité locales ?",
+        "response":  "Ouvrez la Stratégie de sécurité locale via Exécuter (Win + R) et tapez `secpol.msc`. Gérez ici les stratégies de sécurité locales.",
         "action":  "secpol.msc"
     },
     {
-        "response":  "Comment afficher et gÃƒÂ©rer les journaux d\u0027ÃƒÂ©vÃƒÂ©nements systÃƒÂ¨me ?",
-        "question":  "Ouvrez l\u0027Observateur d\u0027ÃƒÂ©vÃƒÂ©nements via ExÃƒÂ©cuter (Win + R) et tapez `eventvwr.msc`. Affichez et gÃƒÂ©rez les journaux d\u0027ÃƒÂ©vÃƒÂ©nements systÃƒÂ¨me ici.",
+        "question":  "Comment afficher et gérer les journaux d\u0027événements système ?",
+        "response":  "Ouvrez l\u0027Observateur d\u0027événements via Exécuter (Win + R) et tapez `eventvwr.msc`. Affichez et gérez les journaux d\u0027événements système ici.",
         "action":  "eventvwr.msc"
     },
     {
-        "response":  "Comment puis-je configurer et gÃƒÂ©rer les tÃƒÂ¢ches planifiÃƒÂ©es ?",
-        "question":  "Ouvrez le Planificateur de tÃƒÂ¢ches via ExÃƒÂ©cuter (Win + R) et tapez `taskschd.msc`. Affichez et gÃƒÂ©rez les tÃƒÂ¢ches planifiÃƒÂ©es ici.",
+        "question":  "Comment puis-je configurer et gérer les tÃƒÂ¢ches planifiées ?",
+        "response":  "Ouvrez le Planificateur de tÃƒÂ¢ches via Exécuter (Win + R) et tapez `taskschd.msc`. Affichez et gérez les tÃƒÂ¢ches planifiées ici.",
         "action":  "taskschd.msc"
     },
     {
-        "response":  "Comment configurer l\u0027optimisation de la distribution de Windows Update ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e Windows Update \u003e Options avancÃƒÂ©es \u003e Optimisation de la distribution. Configurez les paramÃƒÂ¨tres ici.",
+        "question":  "Comment configurer l\u0027optimisation de la distribution de Windows Update ?",
+        "response":  "Allez dans Paramètres \u003e Mise à jour et sécurité \u003e Windows Update \u003e Options avancées \u003e Optimisation de la distribution. Configurez les paramètres ici.",
         "action":  "ms-settings:windowsupdate-deliveryoptimization"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer les exclusions dans Windows Defender ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e Mise ÃƒÂ  jour et sÃƒÂ©curitÃƒÂ© \u003e SÃƒÂ©curitÃƒÂ© Windows \u003e Protection contre les virus et menaces \u003e GÃƒÂ©rer les paramÃƒÂ¨tres. Faites dÃƒÂ©filer jusqu\u0027ÃƒÂ  Exclusions.",
+        "question":  "Comment puis-je gérer les exclusions dans Windows Defender ?",
+        "response":  "Accédez à Paramètres \u003e Mise à jour et sécurité \u003e Sécurité Windows \u003e Protection contre les virus et menaces \u003e Gérer les paramètres. Faites défiler jusqu\u0027à Exclusions.",
         "action":  "ms-settings:windowsdefender"
     },
     {
-        "response":  "Comment ajouter et gÃƒÂ©rer des comptes professionnels ou scolaires ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Comptes \u003e AccÃƒÂ¨s professionnel ou scolaire. Ajoutez et gÃƒÂ©rez ici les comptes professionnels ou scolaires.",
+        "question":  "Comment ajouter et gérer des comptes professionnels ou scolaires ?",
+        "response":  "Allez dans Paramètres \u003e Comptes \u003e Accès professionnel ou scolaire. Ajoutez et gérez ici les comptes professionnels ou scolaires.",
         "action":  "ms-settings:workplace"
     },
     {
-        "response":  "Comment puis-je configurer les paramÃƒÂ¨tres de partage avancÃƒÂ©s pour les rÃƒÂ©seaux ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e Centre RÃƒÂ©seau et partage \u003e Modifier les paramÃƒÂ¨tres de partage avancÃƒÂ©s. Configurez ici les options de partage rÃƒÂ©seau.",
+        "question":  "Comment puis-je configurer les paramètres de partage avancés pour les réseaux ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Centre Réseau et partage \u003e Modifier les paramètres de partage avancés. Configurez ici les options de partage réseau.",
         "action":  "control.exe /name Microsoft.NetworkAndSharingCenter"
     },
     {
-        "response":  "Comment accÃƒÂ©der et gÃƒÂ©rer l\u0027Affichage des tÃƒÂ¢ches pour les bureaux virtuels ?",
-        "question":  "Appuyez sur Win + Tab pour ouvrir l\u0027Affichage des tÃƒÂ¢ches. Vous pouvez y ajouter, supprimer ou basculer entre les bureaux virtuels.",
+        "question":  "Comment accéder et gérer l\u0027Affichage des tÃƒÂ¢ches pour les bureaux virtuels ?",
+        "response":  "Appuyez sur Win + Tab pour ouvrir l\u0027Affichage des tÃƒÂ¢ches. Vous pouvez y ajouter, supprimer ou basculer entre les bureaux virtuels.",
         "action":  "taskview"
     },
     {
-        "response":  "Comment puis-je activer et utiliser Windows Hello pour la reconnaissance faciale ?",
-        "question":  "Allez dans ParamÃƒÂ¨tres \u003e Comptes \u003e Options de connexion. Configurez Windows Hello Face et suivez les instructions.",
+        "question":  "Comment puis-je activer et utiliser Windows Hello pour la reconnaissance faciale ?",
+        "response":  "Allez dans Paramètres \u003e Comptes \u003e Options de connexion. Configurez Windows Hello Face et suivez les instructions.",
         "action":  "ms-settings:signinoptions"
     },
     {
-        "response":  "Comment configurer les paramÃƒÂ¨tres de stockage et gÃƒÂ©rer l\u0027espace disque ?",
-        "question":  "AccÃƒÂ©dez ÃƒÂ  ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Stockage. Vous pouvez y configurer les paramÃƒÂ¨tres de stockage et gÃƒÂ©rer l\u0027espace disque.",
+        "question":  "Comment configurer les paramètres de stockage et gérer l\u0027espace disque ?",
+        "response":  "Accédez à Paramètres \u003e Système \u003e Stockage. Vous pouvez y configurer les paramètres de stockage et gérer l\u0027espace disque.",
         "action":  "ms-settings:storage"
     },
     {
-        "response":  "Comment puis-je gÃƒÂ©rer et personnaliser les paramÃƒÂ¨tres sonores du systÃƒÂ¨me ?",
-        "question":  "Ouvrez ParamÃƒÂ¨tres \u003e SystÃƒÂ¨me \u003e Son. Configurez ici les paramÃƒÂ¨tres sonores, les pÃƒÂ©riphÃƒÂ©riques d\u0027entrÃƒÂ©e et les pÃƒÂ©riphÃƒÂ©riques de sortie.",
+        "question":  "Comment puis-je gérer et personnaliser les paramètres sonores du système ?",
+        "response":  "Ouvrez Paramètres \u003e Système \u003e Son. Configurez ici les paramètres sonores, les périphériques d\u0027entrée et les périphériques de sortie.",
         "action":  "ms-settings:sound"
     },
     {
-        "response":  "Comment activer et configurer le chiffrement de lecteur BitLocker ?",
-        "question":  "Ouvrez le Panneau de configuration \u003e SystÃƒÂ¨me et sÃƒÂ©curitÃƒÂ© \u003e Chiffrement de lecteur BitLocker. GÃƒÂ©rez ici les paramÃƒÂ¨tres et le chiffrement BitLocker.",
+        "question":  "Comment activer et configurer le chiffrement de lecteur BitLocker ?",
+        "response":  "Ouvrez le Panneau de configuration \u003e Système et sécurité \u003e Chiffrement de lecteur BitLocker. Gérez ici les paramètres et le chiffrement BitLocker.",
         "action":  "control.exe /name Microsoft.BitLockerDriveEncryption"
     }
 ]
