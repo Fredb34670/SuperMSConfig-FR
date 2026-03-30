@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jop7qo79eJw=",
+  "dgSpecHash": "Vx/VmGGaEMc=",
   "success": true,
-  "projectFilePath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+  "projectFilePath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fred\\.nuget\\packages\\microsoft.powershell.5.referenceassemblies\\1.1.0\\microsoft.powershell.5.referenceassemblies.1.1.0.nupkg.sha512",
     "C:\\Users\\Fred\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

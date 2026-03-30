@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
-    ".NETFramework,Version=v4.8.1": {
+    "net481": {
       "Microsoft.PowerShell.5.ReferenceAssemblies/1.1.0": {
         "type": "package",
         "compile": {
@@ -119,7 +119,7 @@
         }
       }
     },
-    ".NETFramework,Version=v4.8.1/win-x64": {
+    "net481/win-x64": {
       "Microsoft.PowerShell.5.ReferenceAssemblies/1.1.0": {
         "type": "package",
         "compile": {
@@ -472,7 +472,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.8.1": [
+    "net481": [
       "Microsoft.PowerShell.5.ReferenceAssemblies >= 1.1.0",
       "Newtonsoft.Json >= 13.0.3",
       "System.Resources.Extensions >= 8.0.0"
@@ -484,11 +484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+      "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
       "projectName": "SuperMSConfig-FR",
-      "projectPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+      "projectPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
       "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
-      "outputPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\obj\\",
+      "outputPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Fred\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -501,6 +501,7 @@
       },
       "frameworks": {
         "net481": {
+          "framework": "net481",
           "targetAlias": "net481",
           "projectReferences": {}
         }
@@ -515,10 +516,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "11.0.100"
     },
     "frameworks": {
       "net481": {
+        "framework": "net481",
         "targetAlias": "net481",
         "dependencies": {
           "Microsoft.PowerShell.5.ReferenceAssemblies": {
@@ -534,7 +536,7 @@
             "version": "[8.0.0, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.2.26159.112\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

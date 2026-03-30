@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {}
+    "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {}
   },
   "projects": {
-    "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {
+    "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+        "projectUniqueName": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
         "projectName": "SuperMSConfig-FR",
-        "projectPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
+        "projectPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\SuperMSConfig.csproj",
         "packagesPath": "C:\\Users\\Fred\\.nuget\\packages\\",
-        "outputPath": "F:\\Projets en cours\\SuperMSConfig\\SuperMSConfig-Francais\\obj\\",
+        "outputPath": "F:\\Projets en cours\\SuperMSConfig-FR\\SuperMSConfig-Francais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fred\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "net481": {
+            "framework": "net481",
             "targetAlias": "net481",
             "projectReferences": {}
           }
@@ -38,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "11.0.100"
       },
       "frameworks": {
         "net481": {
+          "framework": "net481",
           "targetAlias": "net481",
           "dependencies": {
             "Microsoft.PowerShell.5.ReferenceAssemblies": {
@@ -57,7 +59,7 @@
               "version": "[8.0.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100-preview.2.26159.112\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
